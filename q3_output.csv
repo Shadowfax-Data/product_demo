@@ -1,0 +1,14 @@
+fiscal_quarter,category,line_item,amount,is_total
+Q3 FY2025,Other,"Property and equipment, net",278374.0,False
+Q3 FY2025,Assets,"Intangible assets, net",268514.0,False
+Q3 FY2025,Deferred Items,Total assets,8202258.0,True
+Q3 FY2025,Liabilities,"Operating lease liabilities, current",38288.0,False
+Q3 FY2025,Deferred Items,Total current liabilities,2647272.0,True
+Q3 FY2025,Deferred Items,"Convertible senior notes, net",2269459.0,False
+Q3 FY2025,Deferred Items,"Operating lease liabilities, non-current",287881.0,False
+Q3 FY2025,Deferred Items,Total liabilities,5267849.0,True
+Q3 FY2025,Other,Accumulated other comprehensive loss,-2760.0,False
+Q3 FY2025,Other,Accumulated deficit,-6970492.0,False
+Q3 FY2025,Other,Total Snowflake Inc. stockholders’ equity,2929445.0,True
+Q3 FY2025,Other,Total stockholders’ equity,2934409.0,True
+Q3 FY2025,Other,Total liabilities and stockholders’ equity,8202258.0,True
