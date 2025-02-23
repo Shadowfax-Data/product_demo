@@ -1,0 +1,16 @@
+fiscal_quarter,category,line_item,amount,is_total
+FY25Q4,Assets,Cash and cash equivalentsShort-term investments,1282045.0,False
+FY25Q4,Assets,"Accounts receivable, netDeferred commissions, current",431597.0,True
+FY25Q4,Assets,Prepaid expenses and other current assets,149085.0,False
+FY25Q4,Assets,Total current assetsLong-term investments,3898088.0,True
+FY25Q4,Assets,"Property and equipment, netOperating lease right-of-use assets",264778.0,True
+FY25Q4,Assets,"GoodwillIntangible assets, net",984076.0,True
+FY25Q4,Assets,"Deferred commissions, non-currentOther assets",177457.0,False
+FY25Q4,Assets,Total assets,6943886.0,True
+FY25Q4,Liabilities,Accounts payableAccrued expenses and other current liabilities,134537.0,False
+FY25Q4,Liabilities,"Operating lease liabilities, currentDeferred revenue, current",32843.0,False
+FY25Q4,Liabilities,"Total current liabilitiesOperating lease liabilities, non-current",2464682.0,True
+FY25Q4,Liabilities,"Deferred revenue, non-currentOther liabilities",12280.0,False
+FY25Q4,Liabilities,Total liabilitiesCommitments and contingencies (Note 10),2806298.0,True
+FY25Q4,Liabilities,Additional paid-in capitalAccumulated other comprehensive loss,9822965.0,False
+FY25Q4,Liabilities,Noncontrolling interest,8587.0,False
