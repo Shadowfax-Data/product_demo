@@ -1,0 +1,27 @@
+fiscal_quarter,category,line_item,amount,is_total
+FY25Q4,Assets,Cash and cash equivalents,1330411.0,False
+FY25Q4,Assets,Short-term investments,2200935.0,False
+FY25Q4,Assets,"Accounts receivable, net",345505.0,True
+FY25Q4,Assets,"Deferred commissions, current",85448.0,False
+FY25Q4,Assets,Prepaid expenses and other current assets,180991.0,False
+FY25Q4,Assets,Total current assets,4143290.0,True
+FY25Q4,Assets,Long-term investments,927981.0,False
+FY25Q4,Assets,"Property and equipment, net",263667.0,True
+FY25Q4,Assets,Operating lease right-of-use assets,244681.0,False
+FY25Q4,Assets,"Intangible assets, net",307967.0,True
+FY25Q4,Assets,"Deferred commissions, non-current",179917.0,False
+FY25Q4,Assets,Other assets,254609.0,False
+FY25Q4,Assets,Total assets,7298018.0,True
+FY25Q4,Liabilities,Accounts payable,64239.0,False
+FY25Q4,Liabilities,Accrued expenses and other current liabilities,398002.0,False
+FY25Q4,Liabilities,"Operating lease liabilities, current",30940.0,False
+FY25Q4,Liabilities,"Deferred revenue, current",1935642.0,False
+FY25Q4,Liabilities,Total current liabilities,2428823.0,True
+FY25Q4,Liabilities,"Operating lease liabilities, non-current",247501.0,False
+FY25Q4,Liabilities,"Deferred revenue, non-current",14692.0,False
+FY25Q4,Liabilities,Other liabilities,39310.0,False
+FY25Q4,Liabilities,Total liabilities,2730326.0,True
+FY25Q4,Liabilities,Additional paid-in capital,9546792.0,False
+FY25Q4,Liabilities,Accumulated other comprehensive loss,-15713.0,False
+FY25Q4,Stockholders' Equity,Accumulated deficit,-4908921.0,False
+FY25Q4,Stockholders' Equity,Noncontrolling interest,9458.0,False
