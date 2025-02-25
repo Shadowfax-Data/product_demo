@@ -1,0 +1,36 @@
+direction,train_number,station,time
+Southbound,325348,Bayshore,03:34 PM
+Southbound,325348,San Bruno,03:43 PM
+Southbound,325348,Burlingame,03:50 PM
+Southbound,325348,22nd St,03:53 PM
+Southbound,325348,Hayward Park,03:55 PM
+Southbound,325348,S. SF,04:01 PM
+Southbound,325348,Belmont,04:01 PM
+Southbound,325348,San Carlos,04:03 PM
+Southbound,325348,San Mateo,04:12 PM
+Southbound,325348,Hillsdale,04:15 PM
+Southbound,325348,Redwood City,04:22 PM
+Southbound,325348,Menlo Park,04:26 PM
+Southbound,325348,Palo Alto,04:29 PM
+Southbound,325348,California Avenue,04:32 PM
+Southbound,325348,San Antonio,04:36 PM
+Southbound,325348,Sunnyvale,04:43 PM
+Southbound,325348,Lawrence,04:46 PM
+Southbound,325348,Santa Clara,04:51 PM
+Southbound,404413,Belmont,04:31 PM
+Southbound,404413,San Carlos,04:33 PM
+Southbound,404413,Menlo Park,04:51 PM
+Southbound,455520500524504510532513,5:01p,05:31 PM
+Southbound,455520500524504510532513,5:03p,05:33 PM
+Southbound,455520500524504510532513,"4:16p 4:38p 4:46p 5:07p
+4:50p
+4:23p 4:43p 4:53p 5:12p
+4:55p
+4:27p 4:46p 4:57p 5:15p",05:46 PM
+Southbound,455520500524504510532513,4:37p 4:53p 5:07p 5:22p,05:53 PM
+Southbound,455520500524504510532513,"5:11p 5:26p
+4:44p 4:59p 5:14p 5:29p
+5:17p 5:32p
+5:21p 5:36p
+4:54p 5:06p 5:24p 5:39p
+4:58p 5:09p 5:28p 5:43p",06:09 PM
