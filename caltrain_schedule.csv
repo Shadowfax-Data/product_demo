@@ -1,0 +1,1638 @@
+direction,train_number,station,time
+northbound,115,San Francisco,08:28
+northbound,115,College Park,08:34
+northbound,115,College Park,08:39
+northbound,115,College Park,08:42
+northbound,115,College Park,08:46
+northbound,115,College Park,08:49
+northbound,115,San Francisco,08:52
+northbound,115,College Park,08:52
+northbound,115,College Park,08:55
+northbound,115,College Park,08:58
+northbound,115,College Park,09:03
+northbound,115,College Park,09:07
+northbound,115,College Park,09:09
+northbound,115,College Park,09:12
+northbound,115,College Park,09:15
+northbound,115,College Park,09:17
+northbound,115,College Park,09:20
+northbound,115,College Park,09:24
+northbound,115,College Park,09:27
+northbound,115,College Park,09:30
+northbound,115,College Park,09:35
+northbound,115,College Park,09:40
+northbound,115,College Park,09:46
+northbound,119,San Francisco,09:28
+northbound,119,College Park,09:34
+northbound,119,College Park,09:39
+northbound,119,College Park,09:42
+northbound,119,College Park,09:46
+northbound,119,College Park,09:49
+northbound,119,San Francisco,09:52
+northbound,119,College Park,09:52
+northbound,119,College Park,09:55
+northbound,119,College Park,09:58
+northbound,119,College Park,10:03
+northbound,119,College Park,10:07
+northbound,119,College Park,10:09
+northbound,119,College Park,10:12
+northbound,119,College Park,10:15
+northbound,119,College Park,10:17
+northbound,119,College Park,10:20
+northbound,119,College Park,10:24
+northbound,119,College Park,10:27
+northbound,119,College Park,10:30
+northbound,119,College Park,10:35
+northbound,119,College Park,10:40
+northbound,119,College Park,10:46
+northbound,157,Capitol,06:52
+northbound,157,Capitol,06:58
+northbound,157,Capitol,07:04
+northbound,157,Capitol,07:09
+northbound,157,Capitol,07:12
+northbound,157,Capitol,07:16
+northbound,157,Capitol,07:19
+northbound,157,Capitol,07:22
+northbound,157,Capitol,07:25
+northbound,157,Capitol,07:28
+northbound,157,Capitol,07:33
+northbound,157,Capitol,07:37
+northbound,157,Capitol,07:39
+northbound,157,Capitol,07:42
+northbound,157,Capitol,07:45
+northbound,157,Capitol,07:47
+northbound,157,Capitol,07:50
+northbound,157,Capitol,07:54
+northbound,157,Capitol,07:57
+northbound,157,Capitol,08:00
+northbound,157,Capitol,08:05
+northbound,157,Capitol,08:10
+northbound,157,Capitol,08:16
+northbound,4,Capitol,04:22
+northbound,4,Capitol,04:32
+northbound,4,Capitol,04:34
+northbound,4,Capitol,04:36
+northbound,4,Capitol,04:39
+northbound,4,Capitol,04:43
+northbound,4,Capitol,04:49
+northbound,4,Capitol,04:52
+northbound,4,Capitol,04:56
+northbound,4,Capitol,04:58
+northbound,4,Capitol,04:59
+northbound,4,Capitol,05:04
+northbound,4,Capitol,05:07
+northbound,4,Capitol,05:09
+northbound,4,Capitol,05:15
+northbound,4,Capitol,05:16
+northbound,4,Capitol,05:20
+northbound,4,Capitol,05:22
+northbound,4,Capitol,05:27
+northbound,4,Capitol,05:35
+northbound,4,San Francisco,06:31
+northbound,4,San Francisco,06:43
+northbound,4,San Francisco,06:49
+northbound,4,San Francisco,06:52
+northbound,4,San Francisco,06:58
+northbound,4,San Francisco,07:02
+northbound,4,College Park,07:04
+northbound,4,San Francisco,07:08
+northbound,4,College Park,07:09
+northbound,4,College Park,07:12
+northbound,4,College Park,07:16
+northbound,4,College Park,07:19
+northbound,4,College Park,07:22
+northbound,4,College Park,07:25
+northbound,4,College Park,07:28
+northbound,4,College Park,07:33
+northbound,4,College Park,07:37
+northbound,4,College Park,07:39
+northbound,4,College Park,07:42
+northbound,4,College Park,07:45
+northbound,4,College Park,07:47
+northbound,4,College Park,07:50
+northbound,4,College Park,07:54
+northbound,4,College Park,07:57
+northbound,4,College Park,08:00
+northbound,4,College Park,08:05
+northbound,4,College Park,08:10
+northbound,4,College Park,08:16
+northbound,5,Capitol,05:22
+northbound,5,Capitol,05:32
+northbound,5,Capitol,05:34
+northbound,5,Capitol,05:36
+northbound,5,Capitol,05:39
+northbound,5,Capitol,05:43
+northbound,5,Capitol,05:49
+northbound,5,Capitol,05:52
+northbound,5,Capitol,05:56
+northbound,5,Capitol,05:58
+northbound,5,Capitol,05:59
+northbound,5,Capitol,06:04
+northbound,5,Capitol,06:07
+northbound,5,Capitol,06:09
+northbound,5,Capitol,06:15
+northbound,5,Capitol,06:16
+northbound,5,Capitol,06:20
+northbound,5,Capitol,06:22
+northbound,5,Capitol,06:27
+northbound,5,Capitol,06:35
+northbound,5,San Francisco,06:52
+northbound,5,San Francisco,07:04
+northbound,5,San Francisco,07:10
+northbound,5,San Francisco,07:23
+northbound,5,San Francisco,07:29
+northbound,5,San Francisco,07:35
+northbound,5,San Francisco,07:40
+northbound,5,College Park,07:49
+northbound,5,College Park,07:54
+northbound,5,College Park,07:57
+northbound,5,College Park,08:01
+northbound,5,College Park,08:04
+northbound,5,College Park,08:07
+northbound,5,College Park,08:10
+northbound,5,College Park,08:13
+northbound,5,College Park,08:18
+northbound,5,College Park,08:25
+northbound,5,College Park,08:28
+northbound,5,College Park,08:33
+northbound,5,College Park,08:37
+northbound,5,College Park,08:39
+northbound,5,College Park,08:45
+northbound,5,College Park,08:47
+northbound,5,College Park,08:50
+northbound,5,College Park,08:53
+northbound,5,College Park,08:57
+northbound,5,College Park,09:05
+northbound,527,Capitol,06:22
+northbound,527,Capitol,06:32
+northbound,527,Capitol,06:34
+northbound,527,Capitol,06:36
+northbound,527,Capitol,06:39
+northbound,527,Capitol,06:43
+northbound,527,Capitol,06:49
+northbound,527,Capitol,06:52
+northbound,527,Capitol,06:56
+northbound,527,Capitol,06:58
+northbound,527,Capitol,06:59
+northbound,527,Capitol,07:04
+northbound,527,Capitol,07:07
+northbound,527,Capitol,07:09
+northbound,527,Capitol,07:15
+northbound,527,Capitol,07:16
+northbound,527,Capitol,07:20
+northbound,527,Capitol,07:22
+northbound,527,Capitol,07:27
+northbound,527,Capitol,07:35
+northbound,6,Capitol,05:52
+northbound,6,Capitol,05:58
+northbound,6,Capitol,06:04
+northbound,6,Capitol,06:09
+northbound,6,Capitol,06:12
+northbound,6,Capitol,06:16
+northbound,6,Capitol,06:19
+northbound,6,Capitol,06:22
+northbound,6,Capitol,06:25
+northbound,6,Capitol,06:28
+northbound,6,Capitol,06:33
+northbound,6,Capitol,06:37
+northbound,6,Capitol,06:39
+northbound,6,Capitol,06:42
+northbound,6,Capitol,06:45
+northbound,6,Capitol,06:47
+northbound,6,Capitol,06:50
+northbound,6,Capitol,06:54
+northbound,6,Capitol,06:57
+northbound,6,Capitol,07:00
+northbound,6,Capitol,07:05
+northbound,6,Capitol,07:10
+northbound,6,Capitol,07:16
+northbound,6,San Francisco,07:31
+northbound,6,San Francisco,07:43
+northbound,6,San Francisco,07:49
+northbound,6,San Francisco,08:02
+northbound,6,San Francisco,08:08
+northbound,6,San Francisco,08:14
+northbound,6,San Francisco,08:19
+northbound,6,College Park,08:32
+northbound,6,College Park,08:36
+northbound,6,College Park,08:43
+northbound,6,College Park,08:49
+northbound,6,College Park,08:56
+northbound,6,College Park,08:59
+northbound,6,College Park,09:04
+northbound,6,College Park,09:09
+northbound,6,College Park,09:16
+northbound,6,College Park,09:22
+southbound,101,Tamien,04:37
+southbound,101,San Jose Diridon,04:43
+southbound,101,Santa Clara,04:49
+southbound,101,Lawrence,04:54
+southbound,101,Sunnyvale,04:57
+southbound,101,Mountain View,05:01
+southbound,101,San Antonio,05:04
+southbound,101,California Avenue,05:07
+southbound,101,Palo Alto,05:10
+southbound,101,Menlo Park,05:13
+southbound,101,Redwood City,05:18
+southbound,101,San Carlos,05:22
+southbound,101,Belmont,05:24
+southbound,101,Hillsdale,05:27
+southbound,101,Hayward Park,05:30
+southbound,101,San Mateo,05:32
+southbound,101,Burlingame,05:35
+southbound,101,Millbrae,05:39
+southbound,101,San Bruno,05:42
+southbound,101,San Francisco,05:45
+southbound,101,South San Francisco,05:45
+southbound,101,Bayshore,05:50
+southbound,101,22nd Street,05:55
+southbound,101,San Francisco,06:01
+southbound,102,San Francisco,04:55
+southbound,102,22nd Street,05:00
+southbound,102,Bayshore,05:04
+southbound,102,San Francisco,05:10
+southbound,102,San Bruno,05:13
+southbound,102,Millbrae,05:16
+southbound,102,Burlingame,05:20
+southbound,102,San Mateo,05:23
+southbound,102,Hayward Park,05:25
+southbound,102,Hillsdale,05:27
+southbound,102,Belmont,05:31
+southbound,102,San Carlos,05:33
+southbound,102,Redwood City,05:37
+southbound,102,Menlo Park,05:41
+southbound,102,Palo Alto,05:44
+southbound,102,California Avenue,05:47
+southbound,102,San Antonio,05:51
+southbound,102,Mountain View,05:54
+southbound,102,Sunnyvale,05:58
+southbound,102,Lawrence,06:01
+southbound,102,Santa Clara,06:06
+southbound,102,San Jose Diridon,06:12
+southbound,103,San Jose Diridon,05:08
+southbound,103,Santa Clara,05:14
+southbound,103,Lawrence,05:19
+southbound,103,Sunnyvale,05:22
+southbound,103,Mountain View,05:26
+southbound,103,San Antonio,05:29
+southbound,103,California Avenue,05:32
+southbound,103,Palo Alto,05:35
+southbound,103,Menlo Park,05:38
+southbound,103,Redwood City,05:43
+southbound,103,San Carlos,05:47
+southbound,103,Belmont,05:49
+southbound,103,Hillsdale,05:52
+southbound,103,Hayward Park,05:55
+southbound,103,San Mateo,05:57
+southbound,103,Burlingame,06:00
+southbound,103,Millbrae,06:04
+southbound,103,San Bruno,06:07
+southbound,103,San Francisco,06:10
+southbound,103,South San Francisco,06:10
+southbound,103,Bayshore,06:15
+southbound,103,22nd Street,06:20
+southbound,103,San Francisco,06:26
+southbound,104,San Francisco,05:30
+southbound,104,22nd Street,05:35
+southbound,104,Bayshore,05:39
+southbound,104,San Francisco,05:46
+southbound,104,San Bruno,05:49
+southbound,104,Millbrae,05:52
+southbound,104,Burlingame,05:56
+southbound,104,San Mateo,05:59
+southbound,104,Hayward Park,06:02
+southbound,104,Hillsdale,06:05
+southbound,104,Belmont,06:09
+southbound,104,San Carlos,06:12
+southbound,104,Redwood City,06:16
+southbound,104,Menlo Park,06:20
+southbound,104,Palo Alto,06:24
+southbound,104,California Avenue,06:27
+southbound,104,San Antonio,06:31
+southbound,104,Mountain View,06:34
+southbound,104,Sunnyvale,06:38
+southbound,104,Lawrence,06:41
+southbound,104,Santa Clara,06:46
+southbound,104,San Jose Diridon,07:03
+southbound,104,Tamien,07:08
+southbound,105,Tamien,05:52
+southbound,105,San Jose Diridon,05:58
+southbound,105,Santa Clara,06:04
+southbound,105,Lawrence,06:09
+southbound,105,Sunnyvale,06:12
+southbound,105,Mountain View,06:16
+southbound,105,San Antonio,06:19
+southbound,105,California Avenue,06:22
+southbound,105,Palo Alto,06:25
+southbound,105,Menlo Park,06:28
+southbound,105,Redwood City,06:33
+southbound,105,San Carlos,06:37
+southbound,105,Belmont,06:39
+southbound,105,Hillsdale,06:42
+southbound,105,Hayward Park,06:45
+southbound,105,San Mateo,06:47
+southbound,105,Burlingame,06:50
+southbound,105,Millbrae,06:54
+southbound,105,San Bruno,06:57
+southbound,105,San Francisco,07:00
+southbound,105,South San Francisco,07:00
+southbound,105,Bayshore,07:05
+southbound,105,22nd Street,07:10
+southbound,105,San Francisco,07:16
+southbound,106,San Francisco,06:25
+southbound,106,22nd Street,06:30
+southbound,106,Bayshore,06:34
+southbound,106,San Francisco,06:40
+southbound,106,San Bruno,06:43
+southbound,106,Millbrae,06:46
+southbound,106,Burlingame,06:50
+southbound,106,San Mateo,06:53
+southbound,106,Hayward Park,06:55
+southbound,106,Hillsdale,06:57
+southbound,106,Belmont,07:01
+southbound,106,San Carlos,07:03
+southbound,106,Redwood City,07:07
+southbound,106,Menlo Park,07:11
+southbound,106,Palo Alto,07:14
+southbound,106,California Avenue,07:17
+southbound,106,San Antonio,07:21
+southbound,106,Mountain View,07:24
+southbound,106,Sunnyvale,07:28
+southbound,106,Lawrence,07:31
+southbound,106,Santa Clara,07:36
+southbound,106,San Jose Diridon,07:42
+southbound,107,San Jose Diridon,06:28
+southbound,107,Santa Clara,06:34
+southbound,107,Lawrence,06:39
+southbound,107,Sunnyvale,06:42
+southbound,107,Mountain View,06:46
+southbound,107,San Antonio,06:49
+southbound,107,California Avenue,06:52
+southbound,107,Palo Alto,06:55
+southbound,107,Menlo Park,06:58
+southbound,107,Redwood City,07:03
+southbound,107,San Carlos,07:07
+southbound,107,Belmont,07:09
+southbound,107,Hillsdale,07:12
+southbound,107,Hayward Park,07:15
+southbound,107,San Mateo,07:17
+southbound,107,Burlingame,07:20
+southbound,107,Millbrae,07:24
+southbound,107,San Bruno,07:27
+southbound,107,San Francisco,07:30
+southbound,107,South San Francisco,07:30
+southbound,107,Bayshore,07:35
+southbound,107,22nd Street,07:40
+southbound,107,San Francisco,07:46
+southbound,108,San Francisco,06:55
+southbound,108,22nd Street,07:00
+southbound,108,Bayshore,07:04
+southbound,108,San Francisco,07:10
+southbound,108,San Bruno,07:13
+southbound,108,Millbrae,07:16
+southbound,108,Burlingame,07:20
+southbound,108,San Mateo,07:23
+southbound,108,Hayward Park,07:25
+southbound,108,Hillsdale,07:27
+southbound,108,Belmont,07:31
+southbound,108,San Carlos,07:33
+southbound,108,Redwood City,07:37
+southbound,108,Menlo Park,07:41
+southbound,108,Palo Alto,07:44
+southbound,108,California Avenue,07:47
+southbound,108,San Antonio,07:51
+southbound,108,Mountain View,07:54
+southbound,108,Sunnyvale,07:58
+southbound,108,Lawrence,08:01
+southbound,108,Santa Clara,08:06
+southbound,108,College Park,08:08
+southbound,108,San Jose Diridon,08:23
+southbound,108,Tamien,08:28
+southbound,109,Tamien,06:52
+southbound,109,San Jose Diridon,06:58
+southbound,109,Santa Clara,07:04
+southbound,109,Lawrence,07:09
+southbound,109,Sunnyvale,07:12
+southbound,109,Mountain View,07:16
+southbound,109,San Antonio,07:19
+southbound,109,California Avenue,07:22
+southbound,109,Palo Alto,07:25
+southbound,109,Menlo Park,07:28
+southbound,109,Redwood City,07:33
+southbound,109,San Carlos,07:37
+southbound,109,Belmont,07:39
+southbound,109,Hillsdale,07:42
+southbound,109,Hayward Park,07:45
+southbound,109,San Mateo,07:47
+southbound,109,Burlingame,07:50
+southbound,109,Millbrae,07:54
+southbound,109,San Bruno,07:57
+southbound,109,San Francisco,08:00
+southbound,109,South San Francisco,08:00
+southbound,109,Bayshore,08:05
+southbound,109,22nd Street,08:10
+southbound,109,San Francisco,08:16
+southbound,110,San Francisco,07:25
+southbound,110,22nd Street,07:30
+southbound,110,Bayshore,07:34
+southbound,110,San Francisco,07:40
+southbound,110,San Bruno,07:43
+southbound,110,Millbrae,07:46
+southbound,110,Burlingame,07:50
+southbound,110,San Mateo,07:53
+southbound,110,Hayward Park,07:55
+southbound,110,Hillsdale,07:57
+southbound,110,Belmont,08:01
+southbound,110,San Carlos,08:03
+southbound,110,Redwood City,08:07
+southbound,110,Menlo Park,08:11
+southbound,110,Palo Alto,08:14
+southbound,110,California Avenue,08:17
+southbound,110,San Antonio,08:21
+southbound,110,Mountain View,08:24
+southbound,110,Sunnyvale,08:28
+southbound,110,Lawrence,08:31
+southbound,110,Santa Clara,08:36
+southbound,110,San Jose Diridon,08:42
+southbound,111,San Jose Diridon,07:28
+southbound,111,Santa Clara,07:34
+southbound,111,Lawrence,07:39
+southbound,111,Sunnyvale,07:42
+southbound,111,Mountain View,07:46
+southbound,111,San Antonio,07:49
+southbound,111,California Avenue,07:52
+southbound,111,Palo Alto,07:55
+southbound,111,Menlo Park,07:58
+southbound,111,Redwood City,08:03
+southbound,111,San Carlos,08:07
+southbound,111,Belmont,08:09
+southbound,111,Hillsdale,08:12
+southbound,111,Hayward Park,08:15
+southbound,111,San Mateo,08:17
+southbound,111,Burlingame,08:20
+southbound,111,Millbrae,08:24
+southbound,111,San Bruno,08:27
+southbound,111,San Francisco,08:30
+southbound,111,South San Francisco,08:30
+southbound,111,Bayshore,08:35
+southbound,111,22nd Street,08:40
+southbound,111,San Francisco,08:46
+southbound,112,San Francisco,07:55
+southbound,112,22nd Street,08:00
+southbound,112,Bayshore,08:04
+southbound,112,San Francisco,08:10
+southbound,112,San Bruno,08:13
+southbound,112,Millbrae,08:16
+southbound,112,Burlingame,08:20
+southbound,112,San Mateo,08:23
+southbound,112,Hayward Park,08:25
+southbound,112,Hillsdale,08:27
+southbound,112,Belmont,08:31
+southbound,112,San Carlos,08:33
+southbound,112,Redwood City,08:37
+southbound,112,Menlo Park,08:41
+southbound,112,Palo Alto,08:44
+southbound,112,California Avenue,08:47
+southbound,112,San Antonio,08:51
+southbound,112,Mountain View,08:54
+southbound,112,Sunnyvale,08:58
+southbound,112,Lawrence,09:01
+southbound,112,Santa Clara,09:06
+southbound,112,San Jose Diridon,09:13
+southbound,112,Tamien,09:18
+southbound,113,Tamien,07:47
+southbound,113,San Jose Diridon,07:53
+southbound,113,College Park,08:01
+southbound,113,Santa Clara,08:04
+southbound,113,Lawrence,08:09
+southbound,113,Sunnyvale,08:12
+southbound,113,Mountain View,08:16
+southbound,113,San Antonio,08:19
+southbound,113,California Avenue,08:22
+southbound,113,Palo Alto,08:25
+southbound,113,Menlo Park,08:28
+southbound,113,Redwood City,08:34
+southbound,113,San Carlos,08:37
+southbound,113,Belmont,08:39
+southbound,113,Hillsdale,08:43
+southbound,113,Hayward Park,08:45
+southbound,113,San Mateo,08:47
+southbound,113,Burlingame,08:50
+southbound,113,Millbrae,08:54
+southbound,113,San Bruno,08:57
+southbound,113,San Francisco,09:00
+southbound,113,South San Francisco,09:00
+southbound,113,Bayshore,09:05
+southbound,113,22nd Street,09:10
+southbound,113,San Francisco,09:16
+southbound,114,San Francisco,08:25
+southbound,114,22nd Street,08:30
+southbound,114,Bayshore,08:34
+southbound,114,San Francisco,08:40
+southbound,114,San Bruno,08:43
+southbound,114,Millbrae,08:46
+southbound,114,Burlingame,08:50
+southbound,114,San Mateo,08:53
+southbound,114,Hayward Park,08:55
+southbound,114,Hillsdale,08:57
+southbound,114,Belmont,09:01
+southbound,114,San Carlos,09:03
+southbound,114,Redwood City,09:07
+southbound,114,Menlo Park,09:11
+southbound,114,Palo Alto,09:14
+southbound,114,California Avenue,09:17
+southbound,114,San Antonio,09:21
+southbound,114,Mountain View,09:24
+southbound,114,Sunnyvale,09:28
+southbound,114,Lawrence,09:31
+southbound,114,Santa Clara,09:36
+southbound,114,San Jose Diridon,09:42
+southbound,115,San Jose Diridon,08:28
+southbound,115,Santa Clara,08:34
+southbound,115,Lawrence,08:39
+southbound,115,Sunnyvale,08:42
+southbound,115,Mountain View,08:46
+southbound,115,San Antonio,08:49
+southbound,115,California Avenue,08:52
+southbound,115,Palo Alto,08:55
+southbound,115,Menlo Park,08:58
+southbound,115,Redwood City,09:03
+southbound,115,San Carlos,09:07
+southbound,115,Belmont,09:09
+southbound,115,Hillsdale,09:12
+southbound,115,Hayward Park,09:15
+southbound,115,San Mateo,09:17
+southbound,115,Burlingame,09:20
+southbound,115,Millbrae,09:24
+southbound,115,San Bruno,09:27
+southbound,115,San Francisco,09:30
+southbound,115,South San Francisco,09:30
+southbound,115,Bayshore,09:35
+southbound,115,22nd Street,09:40
+southbound,115,San Francisco,09:46
+southbound,116,San Francisco,08:55
+southbound,116,22nd Street,09:00
+southbound,116,Bayshore,09:04
+southbound,116,San Francisco,09:10
+southbound,116,San Bruno,09:13
+southbound,116,Millbrae,09:16
+southbound,116,Burlingame,09:20
+southbound,116,San Mateo,09:23
+southbound,116,Hayward Park,09:25
+southbound,116,Hillsdale,09:27
+southbound,116,Belmont,09:31
+southbound,116,San Carlos,09:33
+southbound,116,Redwood City,09:37
+southbound,116,Menlo Park,09:41
+southbound,116,Palo Alto,09:44
+southbound,116,California Avenue,09:47
+southbound,116,San Antonio,09:51
+southbound,116,Mountain View,09:54
+southbound,116,Sunnyvale,09:58
+southbound,116,Lawrence,10:01
+southbound,116,Santa Clara,10:06
+southbound,116,San Jose Diridon,10:13
+southbound,116,Tamien,10:18
+southbound,118,San Francisco,09:25
+southbound,118,22nd Street,09:30
+southbound,118,Bayshore,09:34
+southbound,118,San Francisco,09:40
+southbound,118,San Bruno,09:43
+southbound,118,Millbrae,09:46
+southbound,118,Burlingame,09:50
+southbound,118,San Mateo,09:53
+southbound,118,Hayward Park,09:55
+southbound,118,Hillsdale,09:57
+southbound,118,Belmont,10:01
+southbound,118,San Carlos,10:03
+southbound,118,Redwood City,10:07
+southbound,118,Menlo Park,10:11
+southbound,118,Palo Alto,10:14
+southbound,118,California Avenue,10:17
+southbound,118,San Antonio,10:21
+southbound,118,Mountain View,10:24
+southbound,118,Sunnyvale,10:28
+southbound,118,Lawrence,10:31
+southbound,118,Santa Clara,10:36
+southbound,118,San Jose Diridon,10:42
+southbound,120,San Francisco,09:55
+southbound,120,22nd Street,10:00
+southbound,120,Bayshore,10:04
+southbound,120,San Francisco,10:10
+southbound,120,San Bruno,10:13
+southbound,120,Millbrae,10:16
+southbound,120,Burlingame,10:20
+southbound,120,San Mateo,10:23
+southbound,120,Hayward Park,10:25
+southbound,120,Hillsdale,10:27
+southbound,120,Belmont,10:31
+southbound,120,San Carlos,10:33
+southbound,120,Redwood City,10:37
+southbound,120,Menlo Park,10:41
+southbound,120,Palo Alto,10:44
+southbound,120,California Avenue,10:47
+southbound,120,San Antonio,10:51
+southbound,120,Mountain View,10:54
+southbound,120,Sunnyvale,10:58
+southbound,120,Lawrence,11:01
+southbound,120,Santa Clara,11:06
+southbound,120,San Jose Diridon,11:13
+southbound,120,Tamien,11:18
+southbound,122,San Francisco,10:25
+southbound,122,22nd Street,10:30
+southbound,122,Bayshore,10:34
+southbound,122,San Francisco,10:40
+southbound,122,San Bruno,10:43
+southbound,122,Millbrae,10:46
+southbound,122,Burlingame,10:50
+southbound,122,San Mateo,10:53
+southbound,122,Hayward Park,10:55
+southbound,122,Hillsdale,10:57
+southbound,122,Belmont,11:01
+southbound,122,San Carlos,11:03
+southbound,122,Redwood City,11:07
+southbound,122,Menlo Park,11:11
+southbound,122,Palo Alto,11:14
+southbound,122,California Avenue,11:17
+southbound,122,San Antonio,11:21
+southbound,122,Mountain View,11:24
+southbound,122,Sunnyvale,11:28
+southbound,122,Lawrence,11:31
+southbound,122,Santa Clara,11:36
+southbound,122,San Jose Diridon,11:42
+southbound,124,San Francisco,10:55
+southbound,124,22nd Street,11:00
+southbound,124,Bayshore,11:04
+southbound,124,San Francisco,11:10
+southbound,124,San Bruno,11:13
+southbound,124,Millbrae,11:16
+southbound,124,Burlingame,11:20
+southbound,124,San Mateo,11:23
+southbound,124,Hayward Park,11:25
+southbound,124,Hillsdale,11:27
+southbound,124,Belmont,11:31
+southbound,124,San Carlos,11:33
+southbound,124,Redwood City,11:37
+southbound,124,Menlo Park,11:41
+southbound,124,Palo Alto,11:44
+southbound,124,California Avenue,11:47
+southbound,124,San Antonio,11:51
+southbound,124,Mountain View,11:54
+southbound,124,Sunnyvale,11:58
+southbound,124,Lawrence,12:01
+southbound,124,Santa Clara,12:06
+southbound,124,San Jose Diridon,12:13
+southbound,124,Tamien,12:18
+southbound,126,San Francisco,11:25
+southbound,126,22nd Street,11:30
+southbound,126,Bayshore,11:34
+southbound,126,San Francisco,11:40
+southbound,126,San Bruno,11:43
+southbound,126,Millbrae,11:46
+southbound,126,Burlingame,11:50
+southbound,126,San Mateo,11:53
+southbound,126,Hayward Park,11:55
+southbound,126,Hillsdale,11:57
+southbound,126,Belmont,12:01
+southbound,126,San Carlos,12:03
+southbound,126,Redwood City,12:07
+southbound,126,Menlo Park,12:11
+southbound,126,Palo Alto,12:14
+southbound,126,California Avenue,12:17
+southbound,126,San Antonio,12:21
+southbound,126,Mountain View,12:24
+southbound,126,Sunnyvale,12:28
+southbound,126,Lawrence,12:31
+southbound,126,Santa Clara,12:36
+southbound,126,San Jose Diridon,12:42
+southbound,135,San Jose Diridon,01:28
+southbound,135,Santa Clara,01:34
+southbound,135,Lawrence,01:39
+southbound,135,Sunnyvale,01:42
+southbound,135,Mountain View,01:46
+southbound,135,San Antonio,01:49
+southbound,135,California Avenue,01:52
+southbound,135,Palo Alto,01:55
+southbound,135,Menlo Park,01:58
+southbound,135,Redwood City,02:03
+southbound,135,San Carlos,02:07
+southbound,135,Belmont,02:09
+southbound,135,Hillsdale,02:12
+southbound,135,Hayward Park,02:15
+southbound,135,San Mateo,02:17
+southbound,135,Burlingame,02:20
+southbound,135,Millbrae,02:24
+southbound,135,San Bruno,02:27
+southbound,135,San Francisco,02:30
+southbound,135,South San Francisco,02:30
+southbound,135,Bayshore,02:35
+southbound,135,22nd Street,02:40
+southbound,135,San Francisco,02:46
+southbound,137,Tamien,01:52
+southbound,137,San Jose Diridon,01:58
+southbound,137,Santa Clara,02:04
+southbound,137,Lawrence,02:09
+southbound,137,Sunnyvale,02:12
+southbound,137,Mountain View,02:16
+southbound,137,San Antonio,02:19
+southbound,137,California Avenue,02:22
+southbound,137,Palo Alto,02:25
+southbound,137,Menlo Park,02:28
+southbound,137,Redwood City,02:33
+southbound,137,San Carlos,02:37
+southbound,137,Belmont,02:39
+southbound,137,Hillsdale,02:42
+southbound,137,Hayward Park,02:45
+southbound,137,San Mateo,02:47
+southbound,137,Burlingame,02:50
+southbound,137,Millbrae,02:54
+southbound,137,San Bruno,02:57
+southbound,137,San Francisco,03:00
+southbound,137,South San Francisco,03:00
+southbound,137,Bayshore,03:05
+southbound,137,22nd Street,03:10
+southbound,137,San Francisco,03:16
+southbound,139,San Jose Diridon,02:28
+southbound,139,Santa Clara,02:34
+southbound,139,Lawrence,02:39
+southbound,139,Sunnyvale,02:42
+southbound,139,Mountain View,02:46
+southbound,139,San Antonio,02:49
+southbound,139,California Avenue,02:52
+southbound,139,Palo Alto,02:55
+southbound,139,Menlo Park,02:58
+southbound,139,Redwood City,03:03
+southbound,139,San Carlos,03:07
+southbound,139,Belmont,03:09
+southbound,139,Hillsdale,03:12
+southbound,139,Hayward Park,03:15
+southbound,139,San Mateo,03:17
+southbound,139,Burlingame,03:20
+southbound,139,Millbrae,03:24
+southbound,139,San Bruno,03:27
+southbound,139,San Francisco,03:30
+southbound,139,South San Francisco,03:30
+southbound,139,Bayshore,03:35
+southbound,139,22nd Street,03:40
+southbound,139,San Francisco,03:46
+southbound,141,Tamien,02:47
+southbound,141,San Jose Diridon,02:53
+southbound,141,College Park,03:01
+southbound,141,Santa Clara,03:04
+southbound,141,Lawrence,03:09
+southbound,141,Sunnyvale,03:12
+southbound,141,Mountain View,03:16
+southbound,141,San Antonio,03:19
+southbound,141,California Avenue,03:22
+southbound,141,Palo Alto,03:25
+southbound,141,Menlo Park,03:28
+southbound,141,Redwood City,03:34
+southbound,141,San Carlos,03:37
+southbound,141,Belmont,03:39
+southbound,141,Hillsdale,03:43
+southbound,141,Hayward Park,03:45
+southbound,141,San Mateo,03:47
+southbound,141,Burlingame,03:50
+southbound,141,Millbrae,03:54
+southbound,141,San Bruno,03:57
+southbound,141,San Francisco,04:00
+southbound,141,South San Francisco,04:00
+southbound,141,Bayshore,04:05
+southbound,141,22nd Street,04:10
+southbound,141,San Francisco,04:16
+southbound,142,San Francisco,03:25
+southbound,142,22nd Street,03:30
+southbound,142,Bayshore,03:34
+southbound,142,San Francisco,03:40
+southbound,142,San Bruno,03:43
+southbound,142,Millbrae,03:46
+southbound,142,Burlingame,03:50
+southbound,142,San Mateo,03:53
+southbound,142,Hayward Park,03:55
+southbound,142,Hillsdale,03:57
+southbound,142,Belmont,04:01
+southbound,142,San Carlos,04:03
+southbound,142,Redwood City,04:07
+southbound,142,Menlo Park,04:11
+southbound,142,Palo Alto,04:14
+southbound,142,California Avenue,04:17
+southbound,142,San Antonio,04:21
+southbound,142,Mountain View,04:24
+southbound,142,Sunnyvale,04:28
+southbound,142,Lawrence,04:31
+southbound,142,Santa Clara,04:36
+southbound,142,San Jose Diridon,04:42
+southbound,143,San Jose Diridon,03:28
+southbound,143,Santa Clara,03:34
+southbound,143,Lawrence,03:39
+southbound,143,Sunnyvale,03:42
+southbound,143,Mountain View,03:46
+southbound,143,San Antonio,03:49
+southbound,143,California Avenue,03:52
+southbound,143,Palo Alto,03:55
+southbound,143,Menlo Park,03:58
+southbound,143,Redwood City,04:03
+southbound,143,San Carlos,04:07
+southbound,143,Belmont,04:09
+southbound,143,Hillsdale,04:12
+southbound,143,Hayward Park,04:15
+southbound,143,San Mateo,04:17
+southbound,143,Burlingame,04:20
+southbound,143,Millbrae,04:24
+southbound,143,San Bruno,04:27
+southbound,143,San Francisco,04:30
+southbound,143,South San Francisco,04:30
+southbound,143,Bayshore,04:35
+southbound,143,22nd Street,04:40
+southbound,143,San Francisco,04:46
+southbound,144,San Francisco,03:55
+southbound,144,22nd Street,04:00
+southbound,144,Bayshore,04:04
+southbound,144,San Francisco,04:10
+southbound,144,San Bruno,04:13
+southbound,144,Millbrae,04:16
+southbound,144,Burlingame,04:20
+southbound,144,San Mateo,04:23
+southbound,144,Hayward Park,04:25
+southbound,144,Hillsdale,04:27
+southbound,144,Belmont,04:31
+southbound,144,San Carlos,04:33
+southbound,144,Redwood City,04:37
+southbound,144,Menlo Park,04:41
+southbound,144,Palo Alto,04:44
+southbound,144,California Avenue,04:47
+southbound,144,San Antonio,04:51
+southbound,144,Mountain View,04:54
+southbound,144,Sunnyvale,04:58
+southbound,144,Lawrence,05:01
+southbound,144,Santa Clara,05:06
+southbound,144,San Jose Diridon,05:13
+southbound,144,Tamien,05:18
+southbound,145,Tamien,03:52
+southbound,145,San Jose Diridon,03:58
+southbound,145,Santa Clara,04:04
+southbound,145,Lawrence,04:09
+southbound,145,Sunnyvale,04:12
+southbound,145,Mountain View,04:16
+southbound,145,San Antonio,04:19
+southbound,145,California Avenue,04:22
+southbound,145,Palo Alto,04:25
+southbound,145,Menlo Park,04:28
+southbound,145,Redwood City,04:33
+southbound,145,San Carlos,04:37
+southbound,145,Belmont,04:39
+southbound,145,Hillsdale,04:42
+southbound,145,Hayward Park,04:45
+southbound,145,San Mateo,04:47
+southbound,145,Burlingame,04:50
+southbound,145,Millbrae,04:54
+southbound,145,San Bruno,04:57
+southbound,145,San Francisco,05:00
+southbound,145,South San Francisco,05:00
+southbound,145,Bayshore,05:05
+southbound,145,22nd Street,05:10
+southbound,145,San Francisco,05:16
+southbound,146,San Francisco,04:25
+southbound,146,22nd Street,04:30
+southbound,146,Bayshore,04:34
+southbound,146,San Francisco,04:40
+southbound,146,San Bruno,04:43
+southbound,146,Millbrae,04:46
+southbound,146,Burlingame,04:50
+southbound,146,San Mateo,04:53
+southbound,146,Hayward Park,04:55
+southbound,146,Hillsdale,04:57
+southbound,146,Belmont,05:01
+southbound,146,San Carlos,05:03
+southbound,146,Redwood City,05:07
+southbound,146,Menlo Park,05:11
+southbound,146,Palo Alto,05:14
+southbound,146,California Avenue,05:17
+southbound,146,San Antonio,05:21
+southbound,146,Mountain View,05:24
+southbound,146,Sunnyvale,05:28
+southbound,146,Lawrence,05:31
+southbound,146,Santa Clara,05:36
+southbound,146,San Jose Diridon,05:42
+southbound,147,San Jose Diridon,04:28
+southbound,147,Santa Clara,04:34
+southbound,147,Lawrence,04:39
+southbound,147,Sunnyvale,04:42
+southbound,147,Mountain View,04:46
+southbound,147,San Antonio,04:49
+southbound,147,California Avenue,04:52
+southbound,147,Palo Alto,04:55
+southbound,147,Menlo Park,04:58
+southbound,147,Redwood City,05:03
+southbound,147,San Carlos,05:07
+southbound,147,Belmont,05:09
+southbound,147,Hillsdale,05:12
+southbound,147,Hayward Park,05:15
+southbound,147,San Mateo,05:17
+southbound,147,Burlingame,05:20
+southbound,147,Millbrae,05:24
+southbound,147,San Bruno,05:27
+southbound,147,San Francisco,05:30
+southbound,147,South San Francisco,05:30
+southbound,147,Bayshore,05:35
+southbound,147,22nd Street,05:40
+southbound,147,San Francisco,05:46
+southbound,148,San Francisco,04:55
+southbound,148,22nd Street,05:00
+southbound,148,Bayshore,05:04
+southbound,148,San Francisco,05:10
+southbound,148,San Bruno,05:13
+southbound,148,Millbrae,05:16
+southbound,148,Burlingame,05:20
+southbound,148,San Mateo,05:23
+southbound,148,Hayward Park,05:25
+southbound,148,Hillsdale,05:27
+southbound,148,Belmont,05:31
+southbound,148,San Carlos,05:33
+southbound,148,Redwood City,05:37
+southbound,148,Menlo Park,05:41
+southbound,148,Palo Alto,05:44
+southbound,148,California Avenue,05:47
+southbound,148,San Antonio,05:51
+southbound,148,Mountain View,05:54
+southbound,148,Sunnyvale,05:58
+southbound,148,Lawrence,06:01
+southbound,148,Santa Clara,06:06
+southbound,148,San Jose Diridon,06:13
+southbound,148,Tamien,06:18
+southbound,149,Tamien,04:52
+southbound,149,San Jose Diridon,04:58
+southbound,149,Santa Clara,05:04
+southbound,149,Lawrence,05:09
+southbound,149,Sunnyvale,05:12
+southbound,149,Mountain View,05:16
+southbound,149,San Antonio,05:19
+southbound,149,California Avenue,05:22
+southbound,149,Palo Alto,05:25
+southbound,149,Menlo Park,05:28
+southbound,149,Redwood City,05:33
+southbound,149,San Carlos,05:37
+southbound,149,Belmont,05:39
+southbound,149,Hillsdale,05:42
+southbound,149,Hayward Park,05:45
+southbound,149,San Mateo,05:47
+southbound,149,Burlingame,05:50
+southbound,149,Millbrae,05:54
+southbound,149,San Bruno,05:57
+southbound,149,San Francisco,06:00
+southbound,149,South San Francisco,06:00
+southbound,149,Bayshore,06:05
+southbound,149,22nd Street,06:10
+southbound,149,San Francisco,06:16
+southbound,150,San Francisco,05:25
+southbound,150,22nd Street,05:30
+southbound,150,Bayshore,05:34
+southbound,150,San Francisco,05:40
+southbound,150,San Bruno,05:43
+southbound,150,Millbrae,05:46
+southbound,150,Burlingame,05:50
+southbound,150,San Mateo,05:53
+southbound,150,Hayward Park,05:55
+southbound,150,Hillsdale,05:57
+southbound,150,Belmont,06:01
+southbound,150,San Carlos,06:03
+southbound,150,Redwood City,06:07
+southbound,150,Menlo Park,06:11
+southbound,150,Palo Alto,06:14
+southbound,150,California Avenue,06:17
+southbound,150,San Antonio,06:21
+southbound,150,Mountain View,06:24
+southbound,150,Sunnyvale,06:28
+southbound,150,Lawrence,06:31
+southbound,150,Santa Clara,06:36
+southbound,150,San Jose Diridon,06:42
+southbound,151,San Jose Diridon,05:28
+southbound,151,Santa Clara,05:34
+southbound,151,Lawrence,05:39
+southbound,151,Sunnyvale,05:42
+southbound,151,Mountain View,05:46
+southbound,151,San Antonio,05:49
+southbound,151,California Avenue,05:52
+southbound,151,Palo Alto,05:55
+southbound,151,Menlo Park,05:58
+southbound,151,Redwood City,06:03
+southbound,151,San Carlos,06:07
+southbound,151,Belmont,06:09
+southbound,151,Hillsdale,06:12
+southbound,151,Hayward Park,06:15
+southbound,151,San Mateo,06:17
+southbound,151,Burlingame,06:20
+southbound,151,Millbrae,06:24
+southbound,151,San Bruno,06:27
+southbound,151,San Francisco,06:30
+southbound,151,South San Francisco,06:30
+southbound,151,Bayshore,06:35
+southbound,151,22nd Street,06:40
+southbound,151,San Francisco,06:46
+southbound,152,San Francisco,05:55
+southbound,152,22nd Street,06:00
+southbound,152,Bayshore,06:04
+southbound,152,San Francisco,06:10
+southbound,152,San Bruno,06:13
+southbound,152,Millbrae,06:16
+southbound,152,Burlingame,06:20
+southbound,152,San Mateo,06:23
+southbound,152,Hayward Park,06:25
+southbound,152,Hillsdale,06:27
+southbound,152,Belmont,06:31
+southbound,152,San Carlos,06:33
+southbound,152,Redwood City,06:37
+southbound,152,Menlo Park,06:41
+southbound,152,Palo Alto,06:44
+southbound,152,California Avenue,06:47
+southbound,152,San Antonio,06:51
+southbound,152,Mountain View,06:54
+southbound,152,Sunnyvale,06:58
+southbound,152,Lawrence,07:01
+southbound,152,Santa Clara,07:06
+southbound,152,San Jose Diridon,07:13
+southbound,152,Tamien,07:18
+southbound,153,Tamien,05:52
+southbound,153,San Jose Diridon,05:58
+southbound,153,Santa Clara,06:04
+southbound,153,Lawrence,06:09
+southbound,153,Sunnyvale,06:12
+southbound,153,Mountain View,06:16
+southbound,153,San Antonio,06:19
+southbound,153,California Avenue,06:22
+southbound,153,Palo Alto,06:25
+southbound,153,Menlo Park,06:28
+southbound,153,Redwood City,06:33
+southbound,153,San Carlos,06:37
+southbound,153,Belmont,06:39
+southbound,153,Hillsdale,06:42
+southbound,153,Hayward Park,06:45
+southbound,153,San Mateo,06:47
+southbound,153,Burlingame,06:50
+southbound,153,Millbrae,06:54
+southbound,153,San Bruno,06:57
+southbound,153,San Francisco,07:00
+southbound,153,South San Francisco,07:00
+southbound,153,Bayshore,07:05
+southbound,153,22nd Street,07:10
+southbound,153,San Francisco,07:16
+southbound,154,San Francisco,06:25
+southbound,154,22nd Street,06:30
+southbound,154,Bayshore,06:34
+southbound,154,San Francisco,06:40
+southbound,154,San Bruno,06:43
+southbound,154,Millbrae,06:46
+southbound,154,Burlingame,06:50
+southbound,154,San Mateo,06:53
+southbound,154,Hayward Park,06:55
+southbound,154,Hillsdale,06:57
+southbound,154,Belmont,07:01
+southbound,154,San Carlos,07:03
+southbound,154,Redwood City,07:07
+southbound,154,Menlo Park,07:11
+southbound,154,Palo Alto,07:14
+southbound,154,California Avenue,07:17
+southbound,154,San Antonio,07:21
+southbound,154,Mountain View,07:24
+southbound,154,Sunnyvale,07:28
+southbound,154,Lawrence,07:31
+southbound,154,Santa Clara,07:36
+southbound,154,San Jose Diridon,07:42
+southbound,155,San Jose Diridon,06:28
+southbound,155,Santa Clara,06:34
+southbound,155,Lawrence,06:39
+southbound,155,Sunnyvale,06:42
+southbound,155,Mountain View,06:46
+southbound,155,San Antonio,06:49
+southbound,155,California Avenue,06:52
+southbound,155,Palo Alto,06:55
+southbound,155,Menlo Park,06:58
+southbound,155,Redwood City,07:03
+southbound,155,San Carlos,07:07
+southbound,155,Belmont,07:09
+southbound,155,Hillsdale,07:12
+southbound,155,Hayward Park,07:15
+southbound,155,San Mateo,07:17
+southbound,155,Burlingame,07:20
+southbound,155,Millbrae,07:24
+southbound,155,San Bruno,07:27
+southbound,155,San Francisco,07:30
+southbound,155,South San Francisco,07:30
+southbound,155,Bayshore,07:35
+southbound,155,22nd Street,07:40
+southbound,155,San Francisco,07:46
+southbound,156,San Francisco,06:55
+southbound,156,22nd Street,07:00
+southbound,156,Bayshore,07:04
+southbound,156,San Francisco,07:10
+southbound,156,San Bruno,07:13
+southbound,156,Millbrae,07:16
+southbound,156,Burlingame,07:20
+southbound,156,San Mateo,07:23
+southbound,156,Hayward Park,07:25
+southbound,156,Hillsdale,07:27
+southbound,156,Belmont,07:31
+southbound,156,San Carlos,07:33
+southbound,156,Redwood City,07:37
+southbound,156,Menlo Park,07:41
+southbound,156,Palo Alto,07:44
+southbound,156,California Avenue,07:47
+southbound,156,San Antonio,07:51
+southbound,156,Mountain View,07:54
+southbound,156,Sunnyvale,07:58
+southbound,156,Lawrence,08:01
+southbound,156,Santa Clara,08:06
+southbound,156,San Jose Diridon,08:13
+southbound,156,Tamien,08:18
+southbound,158,San Francisco,07:25
+southbound,158,22nd Street,07:30
+southbound,158,Bayshore,07:34
+southbound,158,San Francisco,07:40
+southbound,158,San Bruno,07:43
+southbound,158,Millbrae,07:46
+southbound,158,Burlingame,07:50
+southbound,158,San Mateo,07:53
+southbound,158,Hayward Park,07:55
+southbound,158,Hillsdale,07:57
+southbound,158,Belmont,08:01
+southbound,158,San Carlos,08:03
+southbound,158,Redwood City,08:07
+southbound,158,Menlo Park,08:11
+southbound,158,Palo Alto,08:14
+southbound,158,California Avenue,08:17
+southbound,158,San Antonio,08:21
+southbound,158,Mountain View,08:24
+southbound,158,Sunnyvale,08:28
+southbound,158,Lawrence,08:31
+southbound,158,Santa Clara,08:36
+southbound,158,San Jose Diridon,08:42
+southbound,16,San Francisco,07:55
+southbound,16,22nd Street,08:00
+southbound,16,Bayshore,08:04
+southbound,16,San Francisco,08:10
+southbound,16,San Bruno,08:13
+southbound,16,Millbrae,08:16
+southbound,16,Burlingame,08:20
+southbound,16,San Mateo,08:23
+southbound,16,Hayward Park,08:25
+southbound,16,Hillsdale,08:27
+southbound,16,Belmont,08:31
+southbound,16,San Carlos,08:33
+southbound,16,Redwood City,08:37
+southbound,16,Menlo Park,08:41
+southbound,16,Palo Alto,08:44
+southbound,16,California Avenue,08:47
+southbound,16,San Antonio,08:51
+southbound,16,Mountain View,08:54
+southbound,16,Sunnyvale,08:58
+southbound,16,Lawrence,09:01
+southbound,16,Santa Clara,09:06
+southbound,16,San Jose Diridon,09:13
+southbound,16,Tamien,09:18
+southbound,401,San Jose Diridon,05:43
+southbound,401,Santa Clara,05:49
+southbound,401,Lawrence,05:54
+southbound,401,Sunnyvale,05:57
+southbound,401,Mountain View,06:01
+southbound,401,San Antonio,06:04
+southbound,401,California Avenue,06:07
+southbound,401,Palo Alto,06:10
+southbound,401,Menlo Park,06:13
+southbound,401,Redwood City,06:18
+southbound,401,Hillsdale,06:25
+southbound,401,San Mateo,06:28
+southbound,401,Millbrae,06:33
+southbound,401,San Francisco,06:39
+southbound,401,South San Francisco,06:39
+southbound,401,22nd Street,06:47
+southbound,401,San Francisco,06:53
+southbound,404,San Francisco,06:48
+southbound,404,22nd Street,06:53
+southbound,404,San Francisco,07:01
+southbound,404,Millbrae,07:07
+southbound,404,San Mateo,07:12
+southbound,404,Hillsdale,07:15
+southbound,404,Redwood City,07:22
+southbound,404,Menlo Park,07:26
+southbound,404,Palo Alto,07:29
+southbound,404,California Avenue,07:32
+southbound,404,San Antonio,07:36
+southbound,404,Mountain View,07:39
+southbound,404,Sunnyvale,07:43
+southbound,404,Lawrence,07:46
+southbound,404,Santa Clara,07:51
+southbound,404,San Jose Diridon,07:58
+southbound,405,San Jose Diridon,06:43
+southbound,405,Santa Clara,06:49
+southbound,405,Lawrence,06:54
+southbound,405,Sunnyvale,06:57
+southbound,405,Mountain View,07:01
+southbound,405,San Antonio,07:04
+southbound,405,California Avenue,07:07
+southbound,405,Palo Alto,07:10
+southbound,405,Menlo Park,07:13
+southbound,405,Redwood City,07:18
+southbound,405,Hillsdale,07:25
+southbound,405,San Mateo,07:28
+southbound,405,Millbrae,07:33
+southbound,405,San Francisco,07:39
+southbound,405,South San Francisco,07:39
+southbound,405,22nd Street,07:47
+southbound,405,San Francisco,07:53
+southbound,408,San Francisco,07:48
+southbound,408,22nd Street,07:53
+southbound,408,San Francisco,08:01
+southbound,408,Millbrae,08:07
+southbound,408,San Mateo,08:12
+southbound,408,Hillsdale,08:15
+southbound,408,Redwood City,08:22
+southbound,408,Menlo Park,08:26
+southbound,408,Palo Alto,08:29
+southbound,408,California Avenue,08:32
+southbound,408,San Antonio,08:36
+southbound,408,Mountain View,08:39
+southbound,408,Sunnyvale,08:43
+southbound,408,Lawrence,08:46
+southbound,408,Santa Clara,08:51
+southbound,408,San Jose Diridon,08:58
+southbound,409,San Jose Diridon,07:43
+southbound,409,Santa Clara,07:49
+southbound,409,Lawrence,07:54
+southbound,409,Sunnyvale,07:57
+southbound,409,Mountain View,08:01
+southbound,409,San Antonio,08:04
+southbound,409,California Avenue,08:07
+southbound,409,Palo Alto,08:10
+southbound,409,Menlo Park,08:13
+southbound,409,Redwood City,08:18
+southbound,409,Hillsdale,08:25
+southbound,409,San Mateo,08:28
+southbound,409,Millbrae,08:33
+southbound,409,San Francisco,08:39
+southbound,409,South San Francisco,08:39
+southbound,409,22nd Street,08:47
+southbound,409,San Francisco,08:53
+southbound,412,San Francisco,08:48
+southbound,412,22nd Street,08:53
+southbound,412,San Francisco,09:01
+southbound,412,Millbrae,09:07
+southbound,412,San Mateo,09:12
+southbound,412,Hillsdale,09:15
+southbound,412,Redwood City,09:22
+southbound,412,Menlo Park,09:26
+southbound,412,Palo Alto,09:29
+southbound,412,California Avenue,09:32
+southbound,412,San Antonio,09:36
+southbound,412,Mountain View,09:39
+southbound,412,Sunnyvale,09:43
+southbound,412,Lawrence,09:46
+southbound,412,Santa Clara,09:51
+southbound,412,San Jose Diridon,09:58
+southbound,413,San Jose Diridon,08:43
+southbound,413,Santa Clara,08:49
+southbound,413,Lawrence,08:54
+southbound,413,Sunnyvale,08:58
+southbound,413,Mountain View,09:01
+southbound,413,San Antonio,09:04
+southbound,413,California Avenue,09:07
+southbound,413,Palo Alto,09:11
+southbound,413,Menlo Park,09:13
+southbound,413,Redwood City,09:18
+southbound,413,Hillsdale,09:25
+southbound,413,San Mateo,09:28
+southbound,413,Millbrae,09:33
+southbound,413,San Francisco,09:39
+southbound,413,South San Francisco,09:39
+southbound,413,22nd Street,09:47
+southbound,413,San Francisco,09:53
+southbound,416,San Francisco,03:48
+southbound,416,22nd Street,03:53
+southbound,416,San Francisco,04:01
+southbound,416,Millbrae,04:07
+southbound,416,San Mateo,04:12
+southbound,416,Hillsdale,04:15
+southbound,416,Redwood City,04:22
+southbound,416,Menlo Park,04:26
+southbound,416,Palo Alto,04:29
+southbound,416,California Avenue,04:32
+southbound,416,San Antonio,04:36
+southbound,416,Mountain View,04:39
+southbound,416,Sunnyvale,04:43
+southbound,416,Lawrence,04:46
+southbound,416,Santa Clara,04:51
+southbound,416,San Jose Diridon,04:58
+southbound,417,San Jose Diridon,03:43
+southbound,417,Santa Clara,03:49
+southbound,417,Lawrence,03:54
+southbound,417,Sunnyvale,03:57
+southbound,417,Mountain View,04:01
+southbound,417,San Antonio,04:04
+southbound,417,California Avenue,04:07
+southbound,417,Palo Alto,04:10
+southbound,417,Menlo Park,04:13
+southbound,417,Redwood City,04:18
+southbound,417,Hillsdale,04:25
+southbound,417,San Mateo,04:28
+southbound,417,Millbrae,04:33
+southbound,417,San Francisco,04:39
+southbound,417,South San Francisco,04:39
+southbound,417,22nd Street,04:47
+southbound,417,San Francisco,04:53
+southbound,420,San Francisco,04:48
+southbound,420,22nd Street,04:53
+southbound,420,San Francisco,05:01
+southbound,420,Millbrae,05:07
+southbound,420,San Mateo,05:12
+southbound,420,Hillsdale,05:15
+southbound,420,Redwood City,05:22
+southbound,420,Menlo Park,05:26
+southbound,420,Palo Alto,05:29
+southbound,420,California Avenue,05:32
+southbound,420,San Antonio,05:36
+southbound,420,Mountain View,05:39
+southbound,420,Sunnyvale,05:43
+southbound,420,Lawrence,05:46
+southbound,420,Santa Clara,05:51
+southbound,420,San Jose Diridon,05:58
+southbound,421,San Jose Diridon,04:43
+southbound,421,Santa Clara,04:49
+southbound,421,Lawrence,04:54
+southbound,421,Sunnyvale,04:57
+southbound,421,Mountain View,05:01
+southbound,421,San Antonio,05:04
+southbound,421,California Avenue,05:07
+southbound,421,Palo Alto,05:10
+southbound,421,Menlo Park,05:13
+southbound,421,Redwood City,05:18
+southbound,421,Hillsdale,05:25
+southbound,421,San Mateo,05:28
+southbound,421,Millbrae,05:33
+southbound,421,San Francisco,05:39
+southbound,421,South San Francisco,05:39
+southbound,421,22nd Street,05:47
+southbound,421,San Francisco,05:53
+southbound,424,San Francisco,05:48
+southbound,424,22nd Street,05:53
+southbound,424,San Francisco,06:01
+southbound,424,Millbrae,06:07
+southbound,424,San Mateo,06:12
+southbound,424,Hillsdale,06:15
+southbound,424,Redwood City,06:22
+southbound,424,Menlo Park,06:26
+southbound,424,Palo Alto,06:29
+southbound,424,California Avenue,06:32
+southbound,424,San Antonio,06:36
+southbound,424,Mountain View,06:39
+southbound,424,Sunnyvale,06:43
+southbound,424,Lawrence,06:46
+southbound,424,Santa Clara,06:51
+southbound,424,San Jose Diridon,06:58
+southbound,425,San Jose Diridon,05:43
+southbound,425,Santa Clara,05:49
+southbound,425,Lawrence,05:54
+southbound,425,Sunnyvale,05:57
+southbound,425,Mountain View,06:01
+southbound,425,San Antonio,06:04
+southbound,425,California Avenue,06:07
+southbound,425,Palo Alto,06:10
+southbound,425,Menlo Park,06:13
+southbound,425,Redwood City,06:18
+southbound,425,Hillsdale,06:25
+southbound,425,San Mateo,06:28
+southbound,425,Millbrae,06:33
+southbound,425,San Francisco,06:39
+southbound,425,South San Francisco,06:39
+southbound,425,22nd Street,06:47
+southbound,425,San Francisco,06:53
+southbound,428,San Francisco,06:48
+southbound,428,22nd Street,06:53
+southbound,428,San Francisco,07:01
+southbound,428,Millbrae,07:07
+southbound,428,San Mateo,07:12
+southbound,428,Hillsdale,07:15
+southbound,428,Redwood City,07:22
+southbound,428,Menlo Park,07:26
+southbound,428,Palo Alto,07:29
+southbound,428,California Avenue,07:32
+southbound,428,San Antonio,07:36
+southbound,428,Mountain View,07:39
+southbound,428,Sunnyvale,07:43
+southbound,428,Lawrence,07:46
+southbound,428,Santa Clara,07:51
+southbound,428,San Jose Diridon,07:58
+southbound,429,San Jose Diridon,06:43
+southbound,429,Santa Clara,06:49
+southbound,429,Lawrence,06:54
+southbound,429,Sunnyvale,06:57
+southbound,429,Mountain View,07:01
+southbound,429,San Antonio,07:04
+southbound,429,California Avenue,07:07
+southbound,429,Palo Alto,07:10
+southbound,429,Menlo Park,07:13
+southbound,429,Redwood City,07:18
+southbound,429,Hillsdale,07:25
+southbound,429,San Mateo,07:28
+southbound,429,Millbrae,07:33
+southbound,429,San Francisco,07:39
+southbound,429,South San Francisco,07:39
+southbound,429,22nd Street,07:47
+southbound,429,San Francisco,07:53
+southbound,502,San Francisco,06:20
+southbound,502,22nd Street,06:24
+southbound,502,San Francisco,06:32
+southbound,502,Millbrae,06:38
+southbound,502,San Mateo,06:43
+southbound,502,Hillsdale,06:46
+southbound,502,Redwood City,06:53
+southbound,502,Palo Alto,06:59
+southbound,502,Mountain View,07:06
+southbound,502,Sunnyvale,07:09
+southbound,502,San Jose Diridon,07:20
+southbound,503,San Jose Diridon,06:22
+southbound,503,Sunnyvale,06:32
+southbound,503,Mountain View,06:36
+southbound,503,Palo Alto,06:43
+southbound,503,Redwood City,06:49
+southbound,503,Hillsdale,06:56
+southbound,503,San Mateo,06:59
+southbound,503,Millbrae,07:04
+southbound,503,San Francisco,07:09
+southbound,503,South San Francisco,07:09
+southbound,503,22nd Street,07:16
+southbound,503,San Francisco,07:22
+southbound,506,San Francisco,07:20
+southbound,506,22nd Street,07:24
+southbound,506,San Francisco,07:32
+southbound,506,Millbrae,07:38
+southbound,506,San Mateo,07:43
+southbound,506,Hillsdale,07:46
+southbound,506,Redwood City,07:53
+southbound,506,Palo Alto,07:59
+southbound,506,Mountain View,08:06
+southbound,506,Sunnyvale,08:09
+southbound,506,San Jose Diridon,08:20
+southbound,507,San Jose Diridon,07:22
+southbound,507,Sunnyvale,07:32
+southbound,507,Mountain View,07:36
+southbound,507,Palo Alto,07:43
+southbound,507,Redwood City,07:49
+southbound,507,Hillsdale,07:56
+southbound,507,San Mateo,07:59
+southbound,507,Millbrae,08:04
+southbound,507,San Francisco,08:09
+southbound,507,South San Francisco,08:09
+southbound,507,22nd Street,08:16
+southbound,507,San Francisco,08:22
+southbound,510,San Francisco,08:20
+southbound,510,22nd Street,08:24
+southbound,510,San Francisco,08:32
+southbound,510,Millbrae,08:38
+southbound,510,San Mateo,08:43
+southbound,510,Hillsdale,08:46
+southbound,510,Redwood City,08:53
+southbound,510,Palo Alto,08:59
+southbound,510,Mountain View,09:06
+southbound,510,Sunnyvale,09:09
+southbound,510,San Jose Diridon,09:20
+southbound,511,San Jose Diridon,08:22
+southbound,511,Sunnyvale,08:32
+southbound,511,Mountain View,08:36
+southbound,511,Palo Alto,08:43
+southbound,511,Redwood City,08:49
+southbound,511,Hillsdale,08:56
+southbound,511,San Mateo,08:59
+southbound,511,Millbrae,09:04
+southbound,511,San Francisco,09:09
+southbound,511,South San Francisco,09:09
+southbound,511,22nd Street,09:16
+southbound,511,San Francisco,09:22
+southbound,515,San Jose Diridon,03:22
+southbound,515,Sunnyvale,03:32
+southbound,515,Mountain View,03:36
+southbound,515,Palo Alto,03:43
+southbound,515,Redwood City,03:49
+southbound,515,Hillsdale,03:56
+southbound,515,San Mateo,03:59
+southbound,515,Millbrae,04:04
+southbound,515,San Francisco,04:09
+southbound,515,South San Francisco,04:09
+southbound,515,22nd Street,04:16
+southbound,515,San Francisco,04:22
+southbound,518,San Francisco,04:20
+southbound,518,22nd Street,04:24
+southbound,518,San Francisco,04:32
+southbound,518,Millbrae,04:38
+southbound,518,San Mateo,04:43
+southbound,518,Hillsdale,04:46
+southbound,518,Redwood City,04:53
+southbound,518,Palo Alto,04:59
+southbound,518,Mountain View,05:06
+southbound,518,Sunnyvale,05:09
+southbound,518,San Jose Diridon,05:20
+southbound,519,San Jose Diridon,04:22
+southbound,519,Sunnyvale,04:32
+southbound,519,Mountain View,04:36
+southbound,519,Palo Alto,04:43
+southbound,519,Redwood City,04:49
+southbound,519,Hillsdale,04:56
+southbound,519,San Mateo,04:59
+southbound,519,Millbrae,05:04
+southbound,519,San Francisco,05:09
+southbound,519,South San Francisco,05:09
+southbound,519,22nd Street,05:16
+southbound,519,San Francisco,05:22
+southbound,522,San Francisco,05:20
+southbound,522,22nd Street,05:24
+southbound,522,San Francisco,05:32
+southbound,522,Millbrae,05:38
+southbound,522,San Mateo,05:43
+southbound,522,Hillsdale,05:46
+southbound,522,Redwood City,05:53
+southbound,522,Palo Alto,05:59
+southbound,522,Mountain View,06:06
+southbound,522,Sunnyvale,06:09
+southbound,522,San Jose Diridon,06:20
+southbound,523,San Jose Diridon,05:22
+southbound,523,Sunnyvale,05:32
+southbound,523,Mountain View,05:36
+southbound,523,Palo Alto,05:43
+southbound,523,Redwood City,05:49
+southbound,523,Hillsdale,05:56
+southbound,523,San Mateo,05:59
+southbound,523,Millbrae,06:04
+southbound,523,San Francisco,06:09
+southbound,523,South San Francisco,06:09
+southbound,523,22nd Street,06:16
+southbound,523,San Francisco,06:22
+southbound,526,San Francisco,06:20
+southbound,526,22nd Street,06:24
+southbound,526,San Francisco,06:32
+southbound,526,Millbrae,06:38
+southbound,526,San Mateo,06:43
+southbound,526,Hillsdale,06:46
+southbound,526,Redwood City,06:53
+southbound,526,Palo Alto,06:59
+southbound,526,Mountain View,07:06
+southbound,526,Sunnyvale,07:09
+southbound,526,San Jose Diridon,07:20
+southbound,527,San Jose Diridon,06:22
+southbound,527,Sunnyvale,06:32
+southbound,527,Mountain View,06:36
+southbound,527,Palo Alto,06:43
+southbound,527,Redwood City,06:49
+southbound,527,Hillsdale,06:56
+southbound,527,San Mateo,06:59
+southbound,527,Millbrae,07:04
+southbound,527,San Francisco,07:09
+southbound,527,South San Francisco,07:09
+southbound,527,22nd Street,07:16
+southbound,527,San Francisco,07:22
+southbound,805,Gilroy,05:52
+southbound,805,San Martin,06:04
+southbound,805,Morgan Hill,06:10
+southbound,805,Blossom Hill,06:23
+southbound,805,Capitol,06:29
+southbound,805,Tamien,06:35
+southbound,805,San Jose Diridon,06:40
+southbound,807,Gilroy,06:31
+southbound,807,San Martin,06:43
+southbound,807,Morgan Hill,06:49
+southbound,807,Blossom Hill,07:02
+southbound,807,Capitol,07:08
+southbound,807,Tamien,07:14
+southbound,807,San Jose Diridon,07:19
+southbound,809,Gilroy,06:52
+southbound,809,San Martin,07:04
+southbound,809,Morgan Hill,07:10
+southbound,809,Blossom Hill,07:23
+southbound,809,Capitol,07:29
+southbound,809,Tamien,07:35
+southbound,809,San Jose Diridon,07:40
+southbound,811,Gilroy,07:31
+southbound,811,San Martin,07:43
+southbound,811,Morgan Hill,07:49
+southbound,811,Blossom Hill,08:02
+southbound,811,Capitol,08:08
+southbound,811,Tamien,08:14
+southbound,811,San Jose Diridon,08:19
+southbound,816,San Jose Diridon,05:01
+southbound,816,Tamien,05:06
+southbound,816,Capitol,05:12
+southbound,816,Blossom Hill,05:18
+southbound,816,Morgan Hill,05:31
+southbound,816,San Martin,05:38
+southbound,816,Gilroy,05:49
+southbound,820,San Jose Diridon,06:01
+southbound,820,Tamien,06:06
+southbound,820,Capitol,06:12
+southbound,820,Blossom Hill,06:18
+southbound,820,Morgan Hill,06:31
+southbound,820,San Martin,06:38
+southbound,820,Gilroy,06:49
+southbound,822,San Jose Diridon,06:23
+southbound,822,Tamien,06:28
+southbound,822,Capitol,06:34
+southbound,822,Blossom Hill,06:40
+southbound,822,Morgan Hill,06:53
+southbound,822,San Martin,07:00
+southbound,822,Gilroy,07:11
