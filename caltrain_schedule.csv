@@ -1,0 +1,202 @@
+train_number,station,time
+101,S. San Francisco,5:45
+101,Bayshore,5:50
+101,22nd Street,5:55
+101,San Francisco,6:01
+103,S. San Francisco,6:10
+103,Bayshore,6:15
+103,22nd Street,6:20
+103,San Francisco,6:26
+105,S. San Francisco,7:00
+105,Bayshore,7:05
+105,22nd Street,7:10
+105,San Francisco,7:16
+107,S. San Francisco,7:30
+107,Bayshore,7:35
+107,22nd Street,7:40
+107,San Francisco,7:46
+109,S. San Francisco,8:00
+109,Bayshore,8:05
+109,22nd Street,8:10
+109,San Francisco,8:16
+111,S. San Francisco,8:30
+111,Bayshore,8:35
+111,22nd Street,8:40
+111,San Francisco,8:46
+113,S. San Francisco,9:00
+113,Bayshore,9:05
+113,22nd Street,9:10
+113,San Francisco,9:16
+115,S. San Francisco,9:30
+115,Bayshore,9:35
+115,22nd Street,9:40
+115,San Francisco,9:46
+117,S. San Francisco,10:00
+117,Bayshore,10:05
+117,22nd Street,10:10
+117,San Francisco,10:16
+119,S. San Francisco,10:30
+119,Bayshore,10:35
+119,22nd Street,10:40
+119,San Francisco,10:46
+121,S. San Francisco,11:00
+121,Bayshore,11:05
+121,22nd Street,11:10
+121,San Francisco,11:16
+123,S. San Francisco,11:30
+123,Bayshore,11:35
+123,22nd Street,11:40
+123,San Francisco,11:46
+125,S. San Francisco,12:00
+125,Bayshore,12:05
+125,22nd Street,12:10
+125,San Francisco,12:16
+127,S. San Francisco,12:30
+127,Bayshore,12:35
+127,22nd Street,12:40
+127,San Francisco,12:46
+129,S. San Francisco,1:00
+129,Bayshore,1:05
+129,22nd Street,1:10
+129,San Francisco,1:16
+131,S. San Francisco,1:30
+131,Bayshore,1:35
+131,22nd Street,1:40
+131,San Francisco,1:46
+133,S. San Francisco,2:00
+133,Bayshore,2:05
+133,22nd Street,2:10
+133,San Francisco,2:16
+135,S. San Francisco,2:30
+135,Bayshore,2:35
+135,22nd Street,2:40
+135,San Francisco,2:46
+137,S. San Francisco,3:00
+137,Bayshore,3:05
+137,22nd Street,3:10
+137,San Francisco,3:16
+139,S. San Francisco,3:30
+139,Bayshore,3:35
+139,22nd Street,3:40
+139,San Francisco,3:46
+141,S. San Francisco,4:00
+141,Bayshore,4:05
+141,22nd Street,4:10
+141,San Francisco,4:16
+143,S. San Francisco,4:30
+143,Bayshore,4:35
+143,22nd Street,4:40
+143,San Francisco,4:46
+145,S. San Francisco,5:00
+145,Bayshore,5:05
+145,22nd Street,5:10
+145,San Francisco,5:16
+147,S. San Francisco,5:30
+147,Bayshore,5:35
+147,22nd Street,5:40
+147,San Francisco,5:46
+149,S. San Francisco,6:00
+149,Bayshore,6:05
+149,22nd Street,6:10
+149,San Francisco,6:16
+151,S. San Francisco,6:30
+151,Bayshore,6:35
+151,22nd Street,6:40
+151,San Francisco,6:46
+153,S. San Francisco,7:00
+153,Bayshore,7:05
+153,22nd Street,7:10
+153,San Francisco,7:16
+155,S. San Francisco,7:30
+155,Bayshore,7:35
+155,22nd Street,7:40
+155,San Francisco,7:46
+157,S. San Francisco,8:00
+157,Bayshore,8:05
+157,22nd Street,8:10
+157,San Francisco,8:16
+159,S. San Francisco,8:30
+159,Bayshore,8:35
+159,22nd Street,8:40
+159,San Francisco,8:46
+161,S. San Francisco,9:00
+161,Bayshore,9:05
+161,22nd Street,9:10
+161,San Francisco,9:16
+163,S. San Francisco,9:30
+163,Bayshore,9:35
+163,22nd Street,9:40
+163,San Francisco,9:46
+165,S. San Francisco,10:00
+165,Bayshore,10:05
+165,22nd Street,10:10
+165,San Francisco,10:16
+167,S. San Francisco,10:30
+167,Bayshore,10:35
+167,22nd Street,10:40
+167,San Francisco,10:46
+169,S. San Francisco,11:00
+169,Bayshore,11:05
+169,22nd Street,11:10
+169,San Francisco,11:16
+171,S. San Francisco,11:32
+171,Bayshore,11:37
+171,22nd Street,11:42
+171,San Francisco,11:48
+173,S. San Francisco,12:32
+173,Bayshore,12:37
+173,22nd Street,12:42
+173,San Francisco,12:48
+401,S. San Francisco,6:39
+401,22nd Street,6:47
+401,San Francisco,6:53
+405,S. San Francisco,7:39
+405,22nd Street,7:47
+405,San Francisco,7:53
+409,S. San Francisco,8:39
+409,22nd Street,8:47
+409,San Francisco,8:53
+413,S. San Francisco,9:39
+413,22nd Street,9:47
+413,San Francisco,9:53
+417,S. San Francisco,4:39
+417,22nd Street,4:47
+417,San Francisco,4:53
+421,S. San Francisco,5:39
+421,22nd Street,5:47
+421,San Francisco,5:53
+425,S. San Francisco,6:39
+425,22nd Street,6:47
+425,San Francisco,6:53
+429,S. San Francisco,7:39
+429,22nd Street,7:47
+429,San Francisco,7:53
+503,S. San Francisco,7:09
+503,22nd Street,7:16
+503,San Francisco,7:22
+507,S. San Francisco,8:09
+507,22nd Street,8:16
+507,San Francisco,8:22
+511,S. San Francisco,9:09
+511,22nd Street,9:16
+511,San Francisco,9:22
+515,S. San Francisco,4:09
+515,22nd Street,4:16
+515,San Francisco,4:22
+519,S. San Francisco,5:09
+519,22nd Street,5:16
+519,San Francisco,5:22
+523,S. San Francisco,6:09
+523,22nd Street,6:16
+523,San Francisco,6:22
+527,S. San Francisco,7:09
+527,22nd Street,7:16
+527,San Francisco,7:22
+814,San Martin,5:00
+814,Gilroy,5:11
+816,San Martin,5:38
+816,Gilroy,5:49
+820,San Martin,6:38
+820,Gilroy,6:49
+822,San Martin,7:00
+822,Gilroy,7:11
