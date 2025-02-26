@@ -1,0 +1,1906 @@
+train_number,station,time
+101,Tamien,4:37a
+101,22nd Street,5:55a
+101,Bayshore,5:50a
+101,S. San Francisco,5:45a
+101,San Bruno,5:42a
+101,Millbrae,5:39a
+101,Burlingame,5:35a
+101,San Mateo,5:32a
+101,Hayward Park,5:30a
+101,Hillsdale,5:27a
+101,Belmont,5:24a
+101,San Carlos,5:22a
+101,San Francisco,6:01a
+101,Menlo Park,5:13a
+101,Palo Alto,5:10a
+101,California Avenue,5:07a
+101,San Antonio,5:04a
+101,Mountain View,5:01a
+101,Sunnyvale,4:57a
+101,Lawrence,4:54a
+101,Santa Clara,4:49a
+101,College Park,–
+101,San Jose Diridon,4:43a
+101,Redwood City,5:18a
+102,Belmont,5:31a
+102,Hillsdale,5:27a
+102,Hayward Park,5:25a
+102,S. San Francisco,5:10a
+102,Burlingame,5:20a
+102,Millbrae,5:16a
+102,San Bruno,5:13a
+102,San Carlos,5:33a
+102,San Mateo,5:23a
+102,Redwood City,5:37a
+102,Sunnyvale,5:58a
+102,Palo Alto,5:44a
+102,California Avenue,5:47a
+102,San Antonio,5:51a
+102,Mountain View,5:54a
+102,Lawrence,6:01a
+102,Santa Clara,6:06a
+102,College Park,–
+102,San Jose Diridon,6:12a
+102,San Francisco,4:55a
+102,Bayshore,5:04a
+102,Menlo Park,5:41a
+102,22nd Street,5:00a
+103,San Francisco,6:26a
+103,22nd Street,6:20a
+103,College Park,–
+103,Santa Clara,5:14a
+103,Lawrence,5:19a
+103,Sunnyvale,5:22a
+103,Mountain View,5:26a
+103,San Antonio,5:29a
+103,California Avenue,5:32a
+103,Palo Alto,5:35a
+103,Menlo Park,5:38a
+103,Redwood City,5:43a
+103,San Jose Diridon,5:08a
+103,Belmont,5:49a
+103,Hillsdale,5:52a
+103,Hayward Park,5:55a
+103,San Mateo,5:57a
+103,Burlingame,6:00a
+103,Millbrae,6:04a
+103,San Bruno,6:07a
+103,S. San Francisco,6:10a
+103,Bayshore,6:15a
+103,San Carlos,5:47a
+104,San Carlos,6:12a
+104,Belmont,6:09a
+104,Hillsdale,6:05a
+104,Hayward Park,6:02a
+104,San Bruno,5:49a
+104,Burlingame,5:56a
+104,Millbrae,5:52a
+104,Redwood City,6:16a
+104,S. San Francisco,5:46a
+104,San Mateo,5:59a
+104,Menlo Park,6:20a
+104,Sunnyvale,6:38a
+104,California Avenue,6:27a
+104,San Antonio,6:31a
+104,Mountain View,6:34a
+104,Lawrence,6:41a
+104,Santa Clara,6:46a
+104,College Park,–
+104,San Jose Diridon,7:03a
+104,Tamien,7:08a
+104,Bayshore,5:39a
+104,San Francisco,5:30a
+104,Palo Alto,6:24a
+104,22nd Street,5:35a
+105,Millbrae,6:54a
+105,22nd Street,7:10a
+105,San Francisco,7:16a
+105,San Jose Diridon,5:58a
+105,College Park,–
+105,Santa Clara,6:04a
+105,Lawrence,6:09a
+105,Sunnyvale,6:12a
+105,San Antonio,6:19a
+105,California Avenue,6:22a
+105,Palo Alto,6:25a
+105,Menlo Park,6:28a
+105,Mountain View,6:16a
+105,San Carlos,6:37a
+105,Belmont,6:39a
+105,Hillsdale,6:42a
+105,Hayward Park,6:45a
+105,San Mateo,6:47a
+105,Burlingame,6:50a
+105,Tamien,5:52a
+105,San Bruno,6:57a
+105,S. San Francisco,7:00a
+105,Redwood City,6:33a
+105,Bayshore,7:05a
+106,Belmont,7:01a
+106,Hillsdale,6:57a
+106,Hayward Park,6:55a
+106,San Mateo,6:53a
+106,S. San Francisco,6:40a
+106,Millbrae,6:46a
+106,San Bruno,6:43a
+106,San Carlos,7:03a
+106,Burlingame,6:50a
+106,Redwood City,7:07a
+106,San Francisco,6:25a
+106,Palo Alto,7:14a
+106,California Avenue,7:17a
+106,San Antonio,7:21a
+106,Mountain View,7:24a
+106,Sunnyvale,7:28a
+106,Lawrence,7:31a
+106,Santa Clara,7:36a
+106,College Park,–
+106,San Jose Diridon,7:42a
+106,Bayshore,6:34a
+106,Menlo Park,7:11a
+106,22nd Street,6:30a
+107,Millbrae,7:24a
+107,22nd Street,7:40a
+107,Tamien,-
+107,San Jose Diridon,6:28a
+107,College Park,–
+107,Santa Clara,6:34a
+107,San Francisco,7:46a
+107,Sunnyvale,6:42a
+107,Mountain View,6:46a
+107,San Antonio,6:49a
+107,California Avenue,6:52a
+107,Palo Alto,6:55a
+107,Lawrence,6:39a
+107,Redwood City,7:03a
+107,San Carlos,7:07a
+107,Belmont,7:09a
+107,Hillsdale,7:12a
+107,Hayward Park,7:15a
+107,San Mateo,7:17a
+107,Burlingame,7:20a
+107,San Bruno,7:27a
+107,S. San Francisco,7:30a
+107,Bayshore,7:35a
+107,Menlo Park,6:58a
+108,Belmont,7:31a
+108,Hillsdale,7:27a
+108,Hayward Park,7:25a
+108,San Mateo,7:23a
+108,Burlingame,7:20a
+108,San Francisco,6:55a
+108,San Bruno,7:13a
+108,S. San Francisco,7:10a
+108,Bayshore,7:04a
+108,22nd Street,7:00a
+108,San Carlos,7:33a
+108,Millbrae,7:16a
+108,Redwood City,7:37a
+108,San Jose Diridon,8:23a
+108,San Antonio,7:51a
+108,Tamien,8:28a
+108,College Park,8:08a
+108,Santa Clara,8:06a
+108,Lawrence,8:01a
+108,Sunnyvale,7:58a
+108,Mountain View,7:54a
+108,California Avenue,7:47a
+108,Palo Alto,7:44a
+108,Menlo Park,7:41a
+109,Santa Clara,7:04a
+109,College Park,–
+109,Sunnyvale,7:12a
+109,San Francisco,8:16a
+109,Lawrence,7:09a
+109,Tamien,6:52a
+109,22nd Street,8:10a
+109,San Jose Diridon,6:58a
+109,S. San Francisco,8:00a
+109,Mountain View,7:16a
+109,San Antonio,7:19a
+109,California Avenue,7:22a
+109,Bayshore,8:05a
+109,Menlo Park,7:28a
+109,Redwood City,7:33a
+109,San Carlos,7:37a
+109,Palo Alto,7:25a
+109,Hillsdale,7:42a
+109,Hayward Park,7:45a
+109,San Mateo,7:47a
+109,Burlingame,7:50a
+109,Millbrae,7:54a
+109,Belmont,7:39a
+109,San Bruno,7:57a
+110,Palo Alto,8:14a
+110,California Avenue,8:17a
+110,San Antonio,8:21a
+110,Mountain View,8:24a
+110,Santa Clara,8:36a
+110,College Park,–
+110,San Jose Diridon,8:42a
+110,Menlo Park,8:11a
+110,Lawrence,8:31a
+110,Redwood City,8:07a
+110,Sunnyvale,8:28a
+110,Belmont,8:01a
+110,Burlingame,7:50a
+110,Millbrae,7:46a
+110,S. San Francisco,7:40a
+110,Bayshore,7:34a
+110,22nd Street,7:30a
+110,San Bruno,7:43a
+110,San Carlos,8:03a
+110,San Mateo,7:53a
+110,Hayward Park,7:55a
+110,Hillsdale,7:57a
+110,San Francisco,7:25a
+111,Burlingame,8:20a
+111,San Francisco,8:46a
+111,22nd Street,8:40a
+111,Bayshore,8:35a
+111,S. San Francisco,8:30a
+111,Millbrae,8:24a
+111,San Mateo,8:17a
+111,San Bruno,8:27a
+111,Hillsdale,8:12a
+111,San Jose Diridon,7:28a
+111,College Park,–
+111,Hayward Park,8:15a
+111,Lawrence,7:39a
+111,Sunnyvale,7:42a
+111,Mountain View,7:46a
+111,San Antonio,7:49a
+111,Santa Clara,7:34a
+111,Palo Alto,7:55a
+111,Menlo Park,7:58a
+111,Redwood City,8:03a
+111,San Carlos,8:07a
+111,Belmont,8:09a
+111,California Avenue,7:52a
+112,Belmont,8:31a
+112,22nd Street,8:00a
+112,San Francisco,7:55a
+112,San Bruno,8:13a
+112,Millbrae,8:16a
+112,Burlingame,8:20a
+112,San Mateo,8:23a
+112,Hayward Park,8:25a
+112,Hillsdale,8:27a
+112,San Carlos,8:33a
+112,San Antonio,8:51a
+112,Menlo Park,8:41a
+112,Redwood City,8:37a
+112,Tamien,9:18a
+112,San Jose Diridon,9:13a
+112,College Park,–
+112,Santa Clara,9:06a
+112,S. San Francisco,8:10a
+112,Sunnyvale,8:58a
+112,Mountain View,8:54a
+112,Bayshore,8:04a
+112,California Avenue,8:47a
+112,Lawrence,9:01a
+112,Palo Alto,8:44a
+113,Hayward Park,8:45a
+113,San Mateo,8:47a
+113,Burlingame,8:50a
+113,San Bruno,8:57a
+113,Hillsdale,8:43a
+113,S. San Francisco,9:00a
+113,Bayshore,9:05a
+113,22nd Street,9:10a
+113,San Francisco,9:16a
+113,Millbrae,8:54a
+113,Belmont,8:39a
+113,Menlo Park,8:28a
+113,Redwood City,8:34a
+113,Palo Alto,8:25a
+113,California Avenue,8:22a
+113,Mountain View,8:16a
+113,Sunnyvale,8:12a
+113,Lawrence,8:09a
+113,Santa Clara,8:04a
+113,College Park,8:01a
+113,San Jose Diridon,7:53a
+113,Tamien,7:47a
+113,San Carlos,8:37a
+113,San Antonio,8:19a
+114,San Bruno,8:43a
+114,S. San Francisco,8:40a
+114,San Jose Diridon,9:42a
+114,College Park,–
+114,Santa Clara,9:36a
+114,Lawrence,9:31a
+114,Sunnyvale,9:28a
+114,Mountain View,9:24a
+114,San Antonio,9:21a
+114,California Avenue,9:17a
+114,Bayshore,8:34a
+114,Palo Alto,9:14a
+114,Redwood City,9:07a
+114,San Carlos,9:03a
+114,Belmont,9:01a
+114,Hillsdale,8:57a
+114,Hayward Park,8:55a
+114,San Mateo,8:53a
+114,Burlingame,8:50a
+114,Millbrae,8:46a
+114,Menlo Park,9:11a
+114,22nd Street,8:30a
+114,San Francisco,8:25a
+115,Belmont,9:09a
+115,Bayshore,9:35a
+115,S. San Francisco,9:30a
+115,San Bruno,9:27a
+115,Millbrae,9:24a
+115,Burlingame,9:20a
+115,San Mateo,9:17a
+115,Hayward Park,9:15a
+115,Hillsdale,9:12a
+115,San Carlos,9:07a
+115,Redwood City,9:03a
+115,Menlo Park,8:58a
+115,22nd Street,9:40a
+115,Palo Alto,8:55a
+115,San Antonio,8:49a
+115,Mountain View,8:46a
+115,Sunnyvale,8:42a
+115,Lawrence,8:39a
+115,Santa Clara,8:34a
+115,College Park,–
+115,San Jose Diridon,8:28a
+115,California Avenue,8:52a
+115,San Francisco,9:46a
+116,Sunnyvale,9:58a
+116,Mountain View,9:54a
+116,San Antonio,9:51a
+116,California Avenue,9:47a
+116,Palo Alto,9:44a
+116,Santa Clara,10:06a
+116,Lawrence,10:01a
+116,College Park,–
+116,San Jose Diridon,10:13a
+116,Tamien,10:18a
+116,Menlo Park,9:41a
+116,Redwood City,9:37a
+116,Millbrae,9:16a
+116,Belmont,9:31a
+116,San Carlos,9:33a
+116,22nd Street,9:00a
+116,Bayshore,9:04a
+116,S. San Francisco,9:10a
+116,San Bruno,9:13a
+116,San Francisco,8:55a
+116,Burlingame,9:20a
+116,San Mateo,9:23a
+116,Hayward Park,9:25a
+116,Hillsdale,9:27a
+117,San Carlos,9:37a
+117,Belmont,9:39a
+117,Hillsdale,9:42a
+117,Hayward Park,9:45a
+117,San Mateo,9:47a
+117,San Bruno,9:57a
+117,Redwood City,9:33a
+117,S. San Francisco,10:00a
+117,Bayshore,10:05a
+117,22nd Street,10:10a
+117,San Francisco,10:16a
+117,Millbrae,9:54a
+117,Menlo Park,9:28a
+117,Burlingame,9:50a
+117,California Avenue,9:22a
+117,Palo Alto,9:25a
+117,Tamien,8:52a
+117,College Park,–
+117,Santa Clara,9:04a
+117,San Jose Diridon,8:58a
+117,Sunnyvale,9:12a
+117,Mountain View,9:16a
+117,San Antonio,9:19a
+117,Lawrence,9:09a
+118,Santa Clara,10:36a
+118,Palo Alto,10:14a
+118,College Park,–
+118,San Jose Diridon,10:42a
+118,Mountain View,10:24a
+118,San Antonio,10:21a
+118,California Avenue,10:17a
+118,Menlo Park,10:11a
+118,Lawrence,10:31a
+118,San Carlos,10:03a
+118,Belmont,10:01a
+118,Hillsdale,9:57a
+118,Millbrae,9:46a
+118,Burlingame,9:50a
+118,San Mateo,9:53a
+118,Hayward Park,9:55a
+118,Redwood City,10:07a
+118,Sunnyvale,10:28a
+118,S. San Francisco,9:40a
+118,San Francisco,9:25a
+118,22nd Street,9:30a
+118,Bayshore,9:34a
+118,San Bruno,9:43a
+119,San Mateo,10:17a
+119,San Jose Diridon,9:28a
+119,College Park,–
+119,Santa Clara,9:34a
+119,Lawrence,9:39a
+119,Sunnyvale,9:42a
+119,Mountain View,9:46a
+119,San Antonio,9:49a
+119,California Avenue,9:52a
+119,Palo Alto,9:55a
+119,Hayward Park,10:15a
+119,San Bruno,10:27a
+119,Burlingame,10:20a
+119,Millbrae,10:24a
+119,S. San Francisco,10:30a
+119,Bayshore,10:35a
+119,22nd Street,10:40a
+119,Redwood City,10:03a
+119,San Francisco,10:46a
+119,Hillsdale,10:12a
+119,Belmont,10:09a
+119,San Carlos,10:07a
+119,Menlo Park,9:58a
+120,San Francisco,9:55a
+120,College Park,–
+120,Santa Clara,11:06a
+120,Lawrence,11:01a
+120,Sunnyvale,10:58a
+120,Palo Alto,10:44a
+120,Menlo Park,10:41a
+120,Redwood City,10:37a
+120,San Carlos,10:33a
+120,Belmont,10:31a
+120,Hillsdale,10:27a
+120,Hayward Park,10:25a
+120,San Antonio,10:51a
+120,Burlingame,10:20a
+120,Millbrae,10:16a
+120,San Bruno,10:13a
+120,S. San Francisco,10:10a
+120,Bayshore,10:04a
+120,22nd Street,10:00a
+120,California Avenue,10:47a
+120,San Mateo,10:23a
+120,Mountain View,10:54a
+120,Tamien,11:18a
+120,San Jose Diridon,11:13a
+121,Millbrae,10:54a
+121,Burlingame,10:50a
+121,San Mateo,10:47a
+121,Hayward Park,10:45a
+121,Hillsdale,10:42a
+121,Belmont,10:39a
+121,San Carlos,10:37a
+121,Redwood City,10:33a
+121,Menlo Park,10:28a
+121,Palo Alto,10:25a
+121,California Avenue,10:22a
+121,San Antonio,10:19a
+121,Mountain View,10:16a
+121,Sunnyvale,10:12a
+121,Lawrence,10:09a
+121,Santa Clara,10:04a
+121,College Park,–
+121,San Jose Diridon,9:58a
+121,Tamien,9:52a
+121,San Bruno,10:57a
+121,S. San Francisco,11:00a
+121,Bayshore,11:05a
+121,San Francisco,11:16a
+121,22nd Street,11:10a
+122,Burlingame,10:50a
+122,San Bruno,10:43a
+122,S. San Francisco,10:40a
+122,Bayshore,10:34a
+122,San Mateo,10:53a
+122,Hayward Park,10:55a
+122,Hillsdale,10:57a
+122,Belmont,11:01a
+122,San Carlos,11:03a
+122,Redwood City,11:07a
+122,Menlo Park,11:11a
+122,Palo Alto,11:14a
+122,San Antonio,11:21a
+122,Mountain View,11:24a
+122,Sunnyvale,11:28a
+122,Lawrence,11:31a
+122,Santa Clara,11:36a
+122,College Park,–
+122,22nd Street,10:30a
+122,San Francisco,10:25a
+122,San Jose Diridon,11:42a
+122,California Avenue,11:17a
+122,Millbrae,10:46a
+123,Mountain View,10:46a
+123,Sunnyvale,10:42a
+123,Millbrae,11:24a
+123,Burlingame,11:20a
+123,San Mateo,11:17a
+123,Hayward Park,11:15a
+123,Hillsdale,11:12a
+123,Belmont,11:09a
+123,College Park,–
+123,San Carlos,11:07a
+123,Menlo Park,10:58a
+123,Palo Alto,10:55a
+123,California Avenue,10:52a
+123,San Antonio,10:49a
+123,Lawrence,10:39a
+123,Santa Clara,10:34a
+123,Redwood City,11:03a
+123,S. San Francisco,11:30a
+123,San Bruno,11:27a
+123,22nd Street,11:40a
+123,Bayshore,11:35a
+123,San Jose Diridon,10:28a
+123,San Francisco,11:46a
+128,S. San Francisco,12:10p 12:40p
+128,San Bruno,12:13p 12:43p
+128,Millbrae,12:16p 12:46p
+128,Burlingame,12:20p 12:50p
+128,San Mateo,12:23p 12:53p
+128,Hayward Park,12:25p 12:55p
+128,Lawrence,1:01p
+128,Santa Clara,1:06p
+128,College Park,–
+128,22nd Street,12:00p 12:30p
+128,San Francisco,11:55a
+128,San Jose Diridon,1:13p
+128,Tamien,1:18p
+128,Bayshore,12:04p 12:34p
+128,Hillsdale,12:27p 12:57p
+129,22nd Street,1:10p
+129,Tamien,11:52a
+129,San Jose Diridon,11:58a
+129,College Park,–
+129,Santa Clara,12:04p 12:34p
+129,Lawrence,12:09p 12:39p
+129,Sunnyvale,12:12p 12:42p
+129,Mountain View,12:16p 12:46p
+129,San Antonio,12:19p 12:49p
+129,Bayshore,1:05p
+129,S. San Francisco,1:00p
+129,Menlo Park,12:28p 12:58p
+129,Palo Alto,12:25p 12:55p
+129,San Francisco,1:16p
+129,California Avenue,12:22p 12:52p
+130,San Carlos,1:03p
+130,San Francisco,12:25p 12:55p
+130,Redwood City,1:07p
+130,Mountain View,1:24p
+130,Palo Alto,1:14p
+130,California Avenue,1:17p
+130,San Antonio,1:21p
+130,Sunnyvale,1:28p
+130,Lawrence,1:31p
+130,Santa Clara,1:36p
+130,College Park,–
+130,San Jose Diridon,1:42p
+130,Menlo Park,1:11p
+130,Belmont,1:01p
+131,Burlingame,1:20p
+131,San Bruno,1:27p
+131,San Francisco,1:46p
+131,22nd Street,1:40p
+131,Bayshore,1:35p
+131,S. San Francisco,1:30p
+131,Millbrae,1:24p
+131,Hayward Park,1:15p
+131,San Mateo,1:17p
+131,Belmont,1:09p
+131,San Carlos,1:07p
+131,Redwood City,1:03p
+131,College Park,–
+131,San Jose Diridon,12:28p 12:58p
+131,Hillsdale,1:12p
+132,College Park,–
+132,San Jose Diridon,2:13p
+132,Santa Clara,2:06p
+132,San Antonio,1:51p
+132,California Avenue,1:47p
+132,Tamien,2:18p
+132,Sunnyvale,1:58p
+132,Palo Alto,1:44p
+132,Lawrence,2:01p
+132,Mountain View,1:54p
+132,Redwood City,1:37p
+132,Menlo Park,1:41p
+132,San Carlos,1:33p
+132,Hayward Park,1:25p
+132,San Mateo,1:23p
+132,Hillsdale,1:27p
+132,Millbrae,1:16p
+132,San Bruno,1:13p
+132,S. San Francisco,1:10p
+132,Bayshore,1:04p
+132,22nd Street,1:00p
+132,Burlingame,1:20p
+132,Belmont,1:31p
+133,San Carlos,1:37p
+133,Redwood City,1:33p
+133,Menlo Park,1:28p
+133,Palo Alto,1:25p
+133,California Avenue,1:22p
+133,San Antonio,1:19p
+133,Lawrence,1:09p
+133,Sunnyvale,1:12p
+133,Belmont,1:39p
+133,Santa Clara,1:04p
+133,College Park,–
+133,Tamien,12:52p
+133,Mountain View,1:16p
+133,Hayward Park,1:45p
+133,Hillsdale,1:42p
+133,Burlingame,1:50p
+133,Millbrae,1:54p
+133,San Bruno,1:57p
+133,S. San Francisco,2:00p
+133,Bayshore,2:05p
+133,22nd Street,2:10p
+133,San Francisco,2:16p
+133,San Mateo,1:47p
+134,Menlo Park,2:11p
+134,Belmont,2:01p
+134,San Carlos,2:03p
+134,Mountain View,2:24p
+134,College Park,–
+134,Lawrence,2:31p
+134,Santa Clara,2:36p
+134,Hillsdale,1:57p
+134,Sunnyvale,2:28p
+134,Hayward Park,1:55p
+134,S. San Francisco,1:40p
+134,Burlingame,1:50p
+134,Millbrae,1:46p
+134,San Bruno,1:43p
+134,Palo Alto,2:14p
+134,22nd Street,1:30p
+134,San Francisco,1:25p
+134,California Avenue,2:17p
+134,San Antonio,2:21p
+134,San Jose Diridon,2:42p
+134,San Mateo,1:53p
+134,Redwood City,2:07p
+134,Bayshore,1:34p
+135,San Bruno,2:27p
+135,Hayward Park,2:15p
+135,Millbrae,2:24p
+135,S. San Francisco,2:30p
+135,Bayshore,2:35p
+135,22nd Street,2:40p
+135,San Francisco,2:46p
+135,Hillsdale,2:12p
+135,Belmont,2:09p
+135,San Mateo,2:17p
+135,Redwood City,2:03p
+135,San Carlos,2:07p
+135,Palo Alto,1:55p
+135,California Avenue,1:52p
+135,San Antonio,1:49p
+135,Mountain View,1:46p
+135,Sunnyvale,1:42p
+135,Lawrence,1:39p
+135,Santa Clara,1:34p
+135,College Park,–
+135,San Jose Diridon,1:28p
+135,Menlo Park,1:58p
+135,Burlingame,2:20p
+136,San Jose Diridon,3:13p
+136,Tamien,3:18p
+136,Hayward Park,2:25p
+136,San Antonio,2:51p
+136,Burlingame,2:20p
+136,Millbrae,2:16p
+136,San Bruno,2:13p
+136,College Park,–
+136,S. San Francisco,2:10p
+136,San Francisco,1:55p
+136,Santa Clara,3:06p
+136,San Mateo,2:23p
+136,Sunnyvale,2:58p
+136,Hillsdale,2:27p
+136,Belmont,2:31p
+136,San Carlos,2:33p
+136,Redwood City,2:37p
+136,Menlo Park,2:41p
+136,Palo Alto,2:44p
+136,California Avenue,2:47p
+136,Lawrence,3:01p
+136,22nd Street,2:00p
+136,Bayshore,2:04p
+136,Mountain View,2:54p
+137,Bayshore,3:05p
+137,S. San Francisco,3:00p
+137,San Bruno,2:57p
+137,Millbrae,2:54p
+137,Burlingame,2:50p
+137,22nd Street,3:10p
+137,San Francisco,3:16p
+137,Lawrence,2:09p
+137,Belmont,2:39p
+137,San Carlos,2:37p
+137,Redwood City,2:33p
+137,Menlo Park,2:28p
+137,Palo Alto,2:25p
+137,California Avenue,2:22p
+137,San Antonio,2:19p
+137,Mountain View,2:16p
+137,Sunnyvale,2:12p
+137,Hayward Park,2:45p
+137,Santa Clara,2:04p
+137,College Park,–
+137,San Jose Diridon,1:58p
+137,Tamien,1:52p
+137,Hillsdale,2:42p
+137,San Mateo,2:47p
+138,San Carlos,3:03p
+138,22nd Street,2:30p
+138,San Jose Diridon,3:42p
+138,College Park,–
+138,Santa Clara,3:36p
+138,Lawrence,3:31p
+138,Sunnyvale,3:28p
+138,Mountain View,3:24p
+138,San Antonio,3:21p
+138,California Avenue,3:17p
+138,Palo Alto,3:14p
+138,Menlo Park,3:11p
+138,Redwood City,3:07p
+138,Belmont,3:01p
+138,Hillsdale,2:57p
+138,Hayward Park,2:55p
+138,San Mateo,2:53p
+138,Burlingame,2:50p
+138,Millbrae,2:46p
+138,San Bruno,2:43p
+138,S. San Francisco,2:40p
+138,Bayshore,2:34p
+138,San Francisco,2:25p
+139,California Avenue,2:52p
+139,Mountain View,2:46p
+139,Sunnyvale,2:42p
+139,Lawrence,2:39p
+139,Santa Clara,2:34p
+139,College Park,–
+139,San Jose Diridon,2:28p
+139,Millbrae,3:24p
+139,San Antonio,2:49p
+139,Menlo Park,2:58p
+139,Palo Alto,2:55p
+139,San Francisco,3:46p
+139,22nd Street,3:40p
+139,S. San Francisco,3:30p
+139,San Bruno,3:27p
+139,Burlingame,3:20p
+139,Bayshore,3:35p
+139,Hayward Park,3:15p
+139,Hillsdale,3:12p
+139,Belmont,3:09p
+139,San Carlos,3:07p
+139,Redwood City,3:03p
+139,San Mateo,3:17p
+140,College Park,4:08p
+140,22nd Street,3:00p
+140,Santa Clara,4:06p
+140,Lawrence,4:01p
+140,Sunnyvale,3:58p
+140,Mountain View,3:54p
+140,San Antonio,3:51p
+140,San Francisco,2:55p
+140,Bayshore,3:04p
+140,Hillsdale,3:27p
+140,San Bruno,3:13p
+140,Millbrae,3:16p
+140,Burlingame,3:20p
+140,San Mateo,3:23p
+140,Hayward Park,3:25p
+140,San Jose Diridon,4:14p
+140,Belmont,3:31p
+140,San Carlos,3:33p
+140,Redwood City,3:37p
+140,Menlo Park,3:41p
+140,S. San Francisco,3:10p
+140,Tamien,4:19p
+140,Palo Alto,3:44p
+140,California Avenue,3:47p
+141,San Francisco,4:16p
+141,Tamien,2:47p
+141,San Jose Diridon,2:53p
+141,College Park,3:01p
+141,Santa Clara,3:04p
+141,Lawrence,3:09p
+141,Sunnyvale,3:12p
+141,Mountain View,3:16p
+141,San Antonio,3:19p
+141,California Avenue,3:22p
+141,22nd Street,4:10p
+141,Palo Alto,3:25p
+141,Redwood City,3:34p
+141,San Carlos,3:37p
+141,Belmont,3:39p
+141,Hillsdale,3:43p
+141,Hayward Park,3:45p
+141,Burlingame,3:50p
+141,Millbrae,3:54p
+141,San Bruno,3:57p
+141,S. San Francisco,4:00p
+141,Bayshore,4:05p
+141,Menlo Park,3:28p
+141,San Mateo,3:47p
+143,Belmont,4:09p
+143,Sunnyvale,3:42p
+143,San Jose Diridon,3:28p
+143,College Park,–
+143,Santa Clara,3:34p
+143,Lawrence,3:39p
+143,Mountain View,3:46p
+143,San Antonio,3:49p
+143,California Avenue,3:52p
+143,Palo Alto,3:55p
+143,Menlo Park,3:58p
+143,Redwood City,4:03p
+143,Hillsdale,4:12p
+143,Hayward Park,4:15p
+143,San Carlos,4:07p
+143,Burlingame,4:20p
+143,Millbrae,4:24p
+143,San Bruno,4:27p
+143,S. San Francisco,4:30p
+143,Bayshore,4:35p
+143,22nd Street,4:40p
+143,San Francisco,4:46p
+143,San Mateo,4:17p
+145,Hillsdale,4:42p
+145,Lawrence,4:09p
+145,San Mateo,4:47p
+145,Bayshore,5:05p
+145,Burlingame,4:50p
+145,San Bruno,4:57p
+145,Millbrae,4:54p
+145,Belmont,4:39p
+145,S. San Francisco,5:00p
+145,San Carlos,4:37p
+145,Hayward Park,4:45p
+145,Menlo Park,4:28p
+145,Palo Alto,4:25p
+145,California Avenue,4:22p
+145,San Antonio,4:19p
+145,Mountain View,4:16p
+145,22nd Street,5:10p
+145,Tamien,3:52p
+145,San Jose Diridon,3:58p
+145,College Park,–
+145,Santa Clara,4:04p
+145,Redwood City,4:33p
+145,San Francisco,5:16p
+145,Sunnyvale,4:12p
+146,Lawrence,5:31p 5:46p
+146,San Antonio,5:21p 5:36p
+146,College Park,–
+146,Santa Clara,5:36p 5:51p
+146,San Bruno,4:43p
+146,Burlingame,4:50p
+146,Bayshore,4:34p
+146,Belmont,5:01p
+146,San Carlos,5:03p
+146,Menlo Park,5:11p 5:26p
+146,California Avenue,5:17p 5:32p
+146,Hayward Park,4:55p
+147,Hillsdale,5:12p
+147,Millbrae,5:24p
+147,Burlingame,5:20p
+147,San Mateo,5:17p
+147,Hayward Park,5:15p
+147,Belmont,5:09p
+147,San Antonio,4:49p
+147,Redwood City,5:03p
+147,Menlo Park,4:58p
+147,Palo Alto,4:55p
+147,California Avenue,4:52p
+147,Mountain View,4:46p
+147,Sunnyvale,4:42p
+147,San Carlos,5:07p
+147,S. San Francisco,5:30p
+147,San Bruno,5:27p
+147,22nd Street,5:40p
+147,Bayshore,5:35p
+147,San Jose Diridon,4:28p
+147,College Park,–
+147,Lawrence,4:39p
+147,Santa Clara,4:34p
+147,San Francisco,5:46p
+149,Hayward Park,5:45p
+149,Burlingame,5:50p
+149,Bayshore,6:05p
+149,Millbrae,5:54p
+149,San Bruno,5:57p
+149,Hillsdale,5:42p
+149,Belmont,5:39p
+149,San Carlos,5:37p
+149,S. San Francisco,6:00p
+149,San Mateo,5:47p
+149,22nd Street,6:10p
+149,Palo Alto,5:25p
+149,Redwood City,5:33p
+149,Menlo Park,5:28p
+149,California Avenue,5:22p
+149,San Antonio,5:19p
+149,Mountain View,5:16p
+149,Sunnyvale,5:12p
+149,Lawrence,5:09p
+149,Santa Clara,5:04p
+149,College Park,–
+149,San Jose Diridon,4:58p
+149,Tamien,4:52p
+149,San Francisco,6:16p
+151,Sunnyvale,5:42p
+151,San Jose Diridon,5:28p
+151,College Park,–
+151,Mountain View,5:46p
+151,San Antonio,5:49p
+151,California Avenue,5:52p
+151,Palo Alto,5:55p
+151,Menlo Park,5:58p
+151,Redwood City,6:03p
+151,San Carlos,6:07p
+151,Belmont,6:09p
+151,Hillsdale,6:12p
+151,Hayward Park,6:15p
+151,Lawrence,5:39p
+151,San Mateo,6:17p
+151,Burlingame,6:20p
+151,Millbrae,6:24p
+151,San Bruno,6:27p
+151,S. San Francisco,6:30p
+151,Bayshore,6:35p
+151,22nd Street,6:40p
+151,San Francisco,6:46p
+151,Santa Clara,5:34p
+152,College Park,–
+152,San Carlos,6:33p
+152,Belmont,6:31p
+152,Hayward Park,6:25p
+152,Burlingame,6:20p
+152,San Bruno,6:13p
+152,Bayshore,6:04p
+152,Tamien,7:18p
+153,Santa Clara,6:04p
+153,Lawrence,6:09p
+153,San Bruno,6:57p
+153,Tamien,5:52p
+153,San Francisco,7:16p
+153,22nd Street,7:10p
+153,Bayshore,7:05p
+153,S. San Francisco,7:00p
+153,San Jose Diridon,5:58p
+153,Millbrae,6:54p
+153,Burlingame,6:50p
+153,San Mateo,6:47p
+153,Hayward Park,6:45p
+153,College Park,–
+153,Belmont,6:39p
+153,San Carlos,6:37p
+153,Redwood City,6:33p
+153,Menlo Park,6:28p
+153,Palo Alto,6:25p
+153,California Avenue,6:22p
+153,San Antonio,6:19p
+153,Mountain View,6:16p
+153,Hillsdale,6:42p
+153,Sunnyvale,6:12p
+154,College Park,–
+154,Santa Clara,7:36p 7:51p 8:06p 8:36p 9:06p 9:36p
+154,Lawrence,7:31p 7:46p 8:01p 8:31p 9:01p 9:31p
+154,Hayward Park,6:55p
+154,Menlo Park,7:11p 7:26p 7:41p 8:11p 8:41p 9:11p
+154,San Carlos,7:03p
+154,Belmont,7:01p
+154,Burlingame,6:50p
+154,California Avenue,7:17p 7:32p 7:47p 8:17p 8:47p 9:17p
+154,San Antonio,7:21p 7:36p 7:51p 8:21p 8:51p 9:21p
+154,Bayshore,6:34p
+154,San Bruno,6:43p
+155,Hillsdale,7:12p
+155,San Jose Diridon,6:28p
+155,College Park,–
+155,Santa Clara,6:34p
+155,Lawrence,6:39p
+155,Sunnyvale,6:42p
+155,Mountain View,6:46p
+155,San Antonio,6:49p
+155,California Avenue,6:52p
+155,Palo Alto,6:55p
+155,Menlo Park,6:58p
+155,Belmont,7:09p
+155,22nd Street,7:40p
+155,Hayward Park,7:15p
+155,Redwood City,7:03p
+155,San Mateo,7:17p
+155,Burlingame,7:20p
+155,Millbrae,7:24p
+155,San Bruno,7:27p
+155,San Carlos,7:07p
+155,San Francisco,7:46p
+155,S. San Francisco,7:30p
+155,Bayshore,7:35p
+156,College Park,–
+156,Bayshore,7:04p 7:34p 8:04p 8:34p
+156,San Bruno,7:13p 7:43p 8:13p 8:43p
+156,Burlingame,7:20p 7:50p 8:20p 8:50p
+156,Hayward Park,7:25p 7:55p 8:25p 8:55p
+156,San Carlos,7:33p 8:03p 8:33p 9:03p
+156,Tamien,8:18p
+156,Belmont,7:31p 8:01p 8:31p 9:01p
+157,Santa Clara,7:04p
+157,College Park,–
+157,22nd Street,8:10p
+157,Bayshore,8:05p
+157,S. San Francisco,8:00p
+157,San Bruno,7:57p
+157,Millbrae,7:54p
+157,Burlingame,7:50p
+157,San Mateo,7:47p
+157,Hayward Park,7:45p
+157,Hillsdale,7:42p
+157,San Jose Diridon,6:58p
+157,San Carlos,7:37p
+157,Redwood City,7:33p
+157,Menlo Park,7:28p
+157,Palo Alto,7:25p
+157,California Avenue,7:22p
+157,San Antonio,7:19p
+157,Mountain View,7:16p
+157,Sunnyvale,7:12p
+157,Lawrence,7:09p
+157,San Francisco,8:16p
+157,Tamien,6:52p
+157,Belmont,7:39p
+158,College Park,–
+159,Lawrence,7:39p
+159,San Francisco,8:46p
+159,22nd Street,8:40p
+159,Bayshore,8:35p
+159,S. San Francisco,8:30p
+159,San Bruno,8:27p
+159,Millbrae,8:24p
+159,Burlingame,8:20p
+159,San Mateo,8:17p
+159,Hayward Park,8:15p
+159,Santa Clara,7:34p
+159,Hillsdale,8:12p
+159,San Carlos,8:07p
+159,Redwood City,8:03p
+159,Menlo Park,7:58p
+159,Palo Alto,7:55p
+159,California Avenue,7:52p
+159,San Antonio,7:49p
+159,Mountain View,7:46p
+159,Sunnyvale,7:42p
+159,San Jose Diridon,7:28p
+159,College Park,–
+159,Belmont,8:09p
+160,College Park,–
+160,Tamien,9:18p
+161,Tamien,7:52p
+161,Millbrae,8:54p
+161,San Bruno,8:57p
+161,S. San Francisco,9:00p
+161,Bayshore,9:05p
+161,22nd Street,9:10p
+161,Belmont,8:39p
+161,San Carlos,8:37p
+161,Redwood City,8:33p
+161,Menlo Park,8:28p
+161,Palo Alto,8:25p
+161,California Avenue,8:22p
+161,San Antonio,8:19p
+161,San Francisco,9:16p
+161,Mountain View,8:16p
+161,Sunnyvale,8:12p
+161,Lawrence,8:09p
+161,Santa Clara,8:04p
+161,College Park,–
+161,San Jose Diridon,7:58p
+161,Burlingame,8:50p
+161,San Mateo,8:47p
+161,Hayward Park,8:45p
+161,Hillsdale,8:42p
+162,College Park,–
+163,San Mateo,9:17p
+163,Burlingame,9:20p
+163,Millbrae,9:24p
+163,San Bruno,9:27p
+163,S. San Francisco,9:30p
+163,Bayshore,9:35p
+163,22nd Street,9:40p
+163,San Francisco,9:46p
+163,Belmont,9:09p
+163,San Carlos,9:07p
+163,Hayward Park,9:15p
+163,Palo Alto,8:55p
+163,California Avenue,8:52p
+163,San Antonio,8:49p
+163,Mountain View,8:46p
+163,Sunnyvale,8:42p
+163,Lawrence,8:39p
+163,Santa Clara,8:34p
+163,College Park,–
+163,San Jose Diridon,8:28p
+163,Menlo Park,8:58p
+163,Redwood City,9:03p
+163,Hillsdale,9:12p
+164,Bayshore,9:04p
+164,Tamien,10:18p
+164,San Jose Diridon,10:13p
+164,College Park,–
+164,Santa Clara,10:06p
+164,Lawrence,10:01p
+164,Sunnyvale,9:58p
+164,22nd Street,9:00p
+164,Mountain View,9:54p
+164,California Avenue,9:47p
+164,Palo Alto,9:44p
+164,Menlo Park,9:41p
+164,Redwood City,9:37p
+164,San Carlos,9:33p
+164,Belmont,9:31p
+164,San Antonio,9:51p
+164,Hayward Park,9:25p
+164,Hillsdale,9:27p
+164,S. San Francisco,9:10p
+164,San Bruno,9:13p
+164,Millbrae,9:16p
+164,Burlingame,9:20p
+164,San Mateo,9:23p
+164,San Francisco,8:55p
+166,Menlo Park,10:11p
+166,San Jose Diridon,10:42p
+166,College Park,–
+166,Santa Clara,10:36p
+166,Lawrence,10:31p
+166,Sunnyvale,10:28p
+166,Mountain View,10:24p
+166,Redwood City,10:07p
+166,San Antonio,10:21p
+166,San Francisco,9:25p
+166,22nd Street,9:30p
+166,Bayshore,9:34p
+166,S. San Francisco,9:40p
+166,San Bruno,9:43p
+166,Millbrae,9:46p
+166,Burlingame,9:50p
+166,Palo Alto,10:14p
+166,Hayward Park,9:55p
+166,Hillsdale,9:57p
+166,Belmont,10:01p
+166,San Carlos,10:03p
+166,California Avenue,10:17p
+166,San Mateo,9:53p
+168,22nd Street,10:00p
+168,San Jose Diridon,11:13p
+168,San Francisco,9:55p
+168,Bayshore,10:04p
+168,S. San Francisco,10:10p
+168,San Bruno,10:13p
+168,Millbrae,10:16p
+168,Burlingame,10:20p
+168,San Mateo,10:23p
+168,Tamien,11:18p
+168,Hillsdale,10:27p
+168,Belmont,10:31p
+168,Hayward Park,10:25p
+168,Redwood City,10:37p
+168,College Park,–
+168,San Carlos,10:33p
+168,Lawrence,11:01p
+168,Sunnyvale,10:58p
+168,Santa Clara,11:06p
+168,San Antonio,10:51p
+168,California Avenue,10:47p
+168,Palo Alto,10:44p
+168,Menlo Park,10:41p
+168,Mountain View,10:54p
+170,Sunnyvale,11:28p
+170,San Jose Diridon,11:42p
+170,College Park,–
+170,Santa Clara,11:36p
+170,Lawrence,11:31p
+170,Mountain View,11:24p
+170,Millbrae,10:46p
+170,California Avenue,11:17p
+170,San Francisco,10:25p
+170,22nd Street,10:30p
+170,Bayshore,10:34p
+170,S. San Francisco,10:40p
+170,San Bruno,10:43p
+170,Burlingame,10:50p
+170,San Mateo,10:53p
+170,San Antonio,11:21p
+170,Hillsdale,10:57p
+170,Belmont,11:01p
+170,San Carlos,11:03p
+170,Redwood City,11:07p
+170,Menlo Park,11:11p
+170,Palo Alto,11:14p
+170,Hayward Park,10:55p
+172,Hayward Park,11:25p
+172,Hillsdale,11:27p
+172,Belmont,11:31p
+172,San Carlos,11:33p
+172,Redwood City,11:37p
+172,Menlo Park,11:41p
+172,Palo Alto,11:44p
+172,Sunnyvale,11:58p
+172,San Antonio,11:51p
+172,Mountain View,11:54p
+172,Lawrence,12:01a
+172,Santa Clara,12:06a
+172,College Park,–
+172,San Mateo,11:23p
+172,Tamien,12:18a
+172,California Avenue,11:47p
+172,Burlingame,11:20p
+172,San Jose Diridon,12:13a
+172,San Bruno,11:13p
+172,S. San Francisco,11:10p
+172,Bayshore,11:04p
+172,22nd Street,11:00p
+172,Millbrae,11:16p
+172,San Francisco,10:55p
+173,San Francisco,12:48a
+173,22nd Street,12:42a
+173,Tamien,11:24p
+173,College Park,–
+173,Menlo Park,12:00a
+173,Redwood City,12:05a
+173,Millbrae,12:26a
+173,Belmont,12:11a
+173,Hillsdale,12:14a
+173,Hayward Park,12:17a
+173,San Mateo,12:19a
+173,Burlingame,12:22a
+173,San Bruno,12:29a
+173,S. San Francisco,12:32a
+173,Bayshore,12:37a
+173,San Carlos,12:09a
+174,Palo Alto,12:14a
+174,California Avenue,12:17a
+174,San Antonio,12:21a
+174,College Park,–
+174,Sunnyvale,12:28a
+174,Santa Clara,12:36a
+174,San Jose Diridon,12:42a
+174,Mountain View,12:24a
+174,Redwood City,12:07a
+174,Lawrence,12:31a
+174,Belmont,12:01a
+174,San Carlos,12:03a
+174,San Francisco,11:25p
+174,22nd Street,11:30p
+174,Bayshore,11:34p
+174,S. San Francisco,11:40p
+174,Menlo Park,12:11a
+174,Millbrae,11:46p
+174,Burlingame,11:50p
+174,San Mateo,11:53p
+174,Hayward Park,11:55p
+174,Hillsdale,11:57p
+174,San Bruno,11:43p
+176,College Park,–
+176,Santa Clara,1:16a
+176,Lawrence,1:11a
+176,Sunnyvale,1:08a
+176,Mountain View,1:04a
+176,San Antonio,1:01a
+176,California Avenue,12:57a
+176,Palo Alto,12:54a
+176,Menlo Park,12:51a
+176,Redwood City,12:47a
+176,Hillsdale,12:37a
+176,Belmont,12:41a
+176,Hayward Park,12:35a
+176,San Mateo,12:33a
+176,Millbrae,12:26a
+176,San Bruno,12:23a
+176,S. San Francisco,12:20a
+176,Bayshore,12:14a
+176,22nd Street,12:10a
+176,San Francisco,12:05a
+176,San Carlos,12:43a
+176,Burlingame,12:30a
+176,Tamien,1:28a
+176,San Jose Diridon,1:23a
+401,22nd Street,6:47a
+401,Bayshore,–
+401,S. San Francisco,6:39a
+401,San Bruno,–
+401,Millbrae,6:33a
+401,Burlingame,–
+401,Hayward Park,–
+401,Hillsdale,6:25a
+401,Belmont,–
+401,San Carlos,–
+401,San Mateo,6:28a
+401,Menlo Park,6:13a
+401,San Jose Diridon,5:43a
+401,Redwood City,6:18a
+401,College Park,–
+401,Santa Clara,5:49a
+401,Lawrence,5:54a
+401,San Francisco,6:53a
+401,Mountain View,6:01a
+401,San Antonio,6:04a
+401,California Avenue,6:07a
+401,Palo Alto,6:10a
+401,Sunnyvale,5:57a
+404,Menlo Park,7:26a
+404,College Park,–
+404,Santa Clara,7:51a
+404,Lawrence,7:46a
+404,Sunnyvale,7:43a
+404,Mountain View,7:39a
+404,San Antonio,7:36a
+404,California Avenue,7:32a
+404,Palo Alto,7:29a
+404,San Jose Diridon,7:58a
+404,Redwood City,7:22a
+404,Belmont,–
+404,San Carlos,–
+404,22nd Street,6:53a
+404,Bayshore,–
+404,S. San Francisco,7:01a
+404,San Bruno,–
+404,San Francisco,6:48a
+404,Burlingame,–
+404,San Mateo,7:12a
+404,Hayward Park,–
+404,Hillsdale,7:15a
+404,Millbrae,7:07a
+405,California Avenue,7:07a
+405,Tamien,-
+405,San Jose Diridon,6:43a
+405,College Park,–
+405,Santa Clara,6:49a
+405,Lawrence,6:54a
+405,Sunnyvale,6:57a
+405,Mountain View,7:01a
+405,San Antonio,7:04a
+405,Palo Alto,7:10a
+405,Hayward Park,–
+405,Redwood City,7:18a
+405,San Carlos,–
+405,Belmont,–
+405,Hillsdale,7:25a
+405,San Mateo,7:28a
+405,Burlingame,–
+405,Millbrae,7:33a
+405,San Bruno,–
+405,San Francisco,7:53a
+405,Menlo Park,7:13a
+405,S. San Francisco,7:39a
+405,22nd Street,7:47a
+405,Bayshore,–
+408,22nd Street,7:53a
+408,S. San Francisco,8:01a
+408,San Bruno,–
+408,Millbrae,8:07a
+408,Burlingame,–
+408,San Mateo,8:12a
+408,Hayward Park,–
+408,Hillsdale,8:15a
+408,Belmont,–
+408,San Carlos,–
+408,Redwood City,8:22a
+408,Menlo Park,8:26a
+408,Palo Alto,8:29a
+408,California Avenue,8:32a
+408,San Antonio,8:36a
+408,Mountain View,8:39a
+408,Sunnyvale,8:43a
+408,Lawrence,8:46a
+408,Santa Clara,8:51a
+408,College Park,–
+408,San Jose Diridon,8:58a
+408,San Francisco,7:48a
+408,Bayshore,–
+409,San Francisco,8:53a
+409,Bayshore,–
+409,San Jose Diridon,7:43a
+409,College Park,–
+409,Santa Clara,7:49a
+409,Lawrence,7:54a
+409,Sunnyvale,7:57a
+409,San Antonio,8:04a
+409,California Avenue,8:07a
+409,Palo Alto,8:10a
+409,22nd Street,8:47a
+409,Redwood City,8:18a
+409,Belmont,–
+409,Hillsdale,8:25a
+409,Hayward Park,–
+409,San Mateo,8:28a
+409,Burlingame,–
+409,Millbrae,8:33a
+409,San Bruno,–
+409,S. San Francisco,8:39a
+409,San Carlos,–
+409,Menlo Park,8:13a
+409,Mountain View,8:01a
+412,San Jose Diridon,9:58a
+412,22nd Street,8:53a
+412,Bayshore,–
+412,S. San Francisco,9:01a
+412,San Bruno,–
+412,Burlingame,–
+412,San Mateo,9:12a
+412,Hayward Park,–
+412,Hillsdale,9:15a
+412,Belmont,–
+412,San Carlos,–
+412,Millbrae,9:07a
+412,Menlo Park,9:26a
+412,Redwood City,9:22a
+412,College Park,–
+412,Santa Clara,9:51a
+412,Lawrence,9:46a
+412,Sunnyvale,9:43a
+412,San Francisco,8:48a
+412,Mountain View,9:39a
+412,San Antonio,9:36a
+412,California Avenue,9:32a
+412,Palo Alto,9:29a
+413,Bayshore,–
+413,Palo Alto,9:11a
+413,Menlo Park,9:13a
+413,Redwood City,9:18a
+413,San Carlos,–
+413,Belmont,–
+413,San Mateo,9:28a
+413,Hayward Park,–
+413,California Avenue,9:07a
+413,Burlingame,–
+413,Millbrae,9:33a
+413,S. San Francisco,9:39a
+413,Hillsdale,9:25a
+413,San Bruno,–
+413,Lawrence,8:54a
+413,Mountain View,9:01a
+413,Sunnyvale,8:58a
+413,22nd Street,9:47a
+413,Santa Clara,8:49a
+413,College Park,–
+413,San Jose Diridon,8:43a
+413,San Antonio,9:04a
+413,San Francisco,9:53a
+417,Hayward Park,–
+417,Hillsdale,4:25p
+417,Belmont,–
+417,San Carlos,–
+417,Redwood City,4:18p
+417,Menlo Park,4:13p
+417,Palo Alto,4:10p
+417,California Avenue,4:07p
+417,S. San Francisco,4:39p
+417,Burlingame,–
+417,Millbrae,4:33p
+417,San Bruno,–
+417,San Antonio,4:04p
+417,Bayshore,–
+417,22nd Street,4:47p
+417,San Francisco,4:53p
+417,San Mateo,4:28p
+417,Mountain View,4:01p
+417,Lawrence,3:54p
+417,Santa Clara,3:49p
+417,Sunnyvale,3:57p
+417,San Jose Diridon,3:43p
+417,College Park,–
+420,College Park,–
+420,Belmont,–
+420,Hayward Park,–
+420,Burlingame,–
+420,San Bruno,–
+420,Bayshore,–
+420,San Carlos,–
+421,San Antonio,5:04p
+421,San Jose Diridon,4:43p
+421,College Park,–
+421,Santa Clara,4:49p
+421,Lawrence,4:54p
+421,Sunnyvale,4:57p
+421,Mountain View,5:01p
+421,San Francisco,5:53p
+421,22nd Street,5:47p
+421,Bayshore,–
+421,S. San Francisco,5:39p
+421,San Bruno,–
+421,Millbrae,5:33p
+421,Burlingame,–
+421,San Mateo,5:28p
+421,Hayward Park,–
+421,Hillsdale,5:25p
+421,Belmont,–
+421,San Carlos,–
+421,Redwood City,5:18p
+421,Menlo Park,5:13p
+421,Palo Alto,5:10p
+421,California Avenue,5:07p
+425,Hillsdale,6:25p
+425,Belmont,–
+425,Hayward Park,–
+425,Sunnyvale,5:57p
+425,Lawrence,5:54p
+425,Santa Clara,5:49p
+425,College Park,–
+425,San Jose Diridon,5:43p
+425,California Avenue,6:07p
+425,San Mateo,6:28p
+425,Burlingame,–
+425,Mountain View,6:01p
+425,Millbrae,6:33p
+425,S. San Francisco,6:39p
+425,Bayshore,–
+425,22nd Street,6:47p
+425,San Francisco,6:53p
+425,Palo Alto,6:10p
+425,Menlo Park,6:13p
+425,Redwood City,6:18p
+425,San Carlos,–
+425,San Bruno,–
+425,San Antonio,6:04p
+428,Hayward Park,–
+428,Bayshore,–
+428,College Park,–
+428,San Carlos,–
+428,San Bruno,–
+428,Burlingame,–
+428,Belmont,–
+429,Mountain View,7:01p
+429,S. San Francisco,7:39p
+429,22nd Street,7:47p
+429,Bayshore,–
+429,San Bruno,–
+429,Millbrae,7:33p
+429,Burlingame,–
+429,San Mateo,7:28p
+429,Hayward Park,–
+429,Hillsdale,7:25p
+429,San Francisco,7:53p
+429,Belmont,–
+429,Redwood City,7:18p
+429,Menlo Park,7:13p
+429,Palo Alto,7:10p
+429,California Avenue,7:07p
+429,San Antonio,7:04p
+429,Sunnyvale,6:57p
+429,Lawrence,6:54p
+429,Santa Clara,6:49p
+429,San Carlos,–
+429,College Park,–
+429,San Jose Diridon,6:43p
+502,San Jose Diridon,7:20a
+502,22nd Street,6:24a
+502,Bayshore,–
+502,S. San Francisco,6:32a
+502,San Bruno,–
+502,Millbrae,6:38a
+502,Burlingame,–
+502,San Mateo,6:43a
+502,Hayward Park,–
+502,Hillsdale,6:46a
+502,Belmont,–
+502,San Carlos,–
+502,Redwood City,6:53a
+502,Menlo Park,–
+502,Palo Alto,6:59a
+502,California Avenue,–
+502,San Antonio,–
+502,Mountain View,7:06a
+502,Sunnyvale,7:09a
+502,Lawrence,–
+502,Santa Clara,–
+502,San Francisco,6:20a
+502,College Park,–
+503,San Francisco,7:22a
+503,Bayshore,–
+503,S. San Francisco,7:09a
+503,Tamien,–
+503,San Jose Diridon,6:22a
+503,College Park,–
+503,Santa Clara,–
+503,Lawrence,–
+503,Sunnyvale,6:32a
+503,Mountain View,6:36a
+503,San Antonio,–
+503,California Avenue,–
+503,22nd Street,7:16a
+503,Palo Alto,6:43a
+503,Redwood City,6:49a
+503,San Carlos,–
+503,Belmont,–
+503,Hillsdale,6:56a
+503,Hayward Park,–
+503,San Mateo,6:59a
+503,Burlingame,–
+503,Millbrae,7:04a
+503,San Bruno,–
+503,Menlo Park,–
+506,San Jose Diridon,8:20a
+506,22nd Street,7:24a
+506,Belmont,–
+506,S. San Francisco,7:32a
+506,San Bruno,–
+506,Millbrae,7:38a
+506,Burlingame,–
+506,San Mateo,7:43a
+506,Hayward Park,–
+506,Hillsdale,7:46a
+506,San Francisco,7:20a
+506,San Carlos,–
+506,Redwood City,7:53a
+506,Menlo Park,–
+506,Palo Alto,7:59a
+506,California Avenue,–
+506,San Antonio,–
+506,Mountain View,8:06a
+506,Sunnyvale,8:09a
+506,Lawrence,–
+506,Santa Clara,–
+506,College Park,–
+506,Bayshore,–
+507,San Francisco,8:22a
+507,San Antonio,–
+507,Bayshore,–
+507,22nd Street,8:16a
+507,College Park,–
+507,Santa Clara,–
+507,Lawrence,–
+507,Sunnyvale,7:32a
+507,Mountain View,7:36a
+507,California Avenue,–
+507,Palo Alto,7:43a
+507,Menlo Park,–
+507,San Jose Diridon,7:22a
+507,San Carlos,–
+507,Redwood City,7:49a
+507,San Bruno,–
+507,Millbrae,8:04a
+507,Burlingame,–
+507,S. San Francisco,8:09a
+507,Hayward Park,–
+507,Hillsdale,7:56a
+507,Belmont,–
+507,San Mateo,7:59a
+510,San Bruno,–
+510,San Carlos,–
+510,Millbrae,8:38a
+510,Burlingame,–
+510,San Mateo,8:43a
+510,Hayward Park,–
+510,Hillsdale,8:46a
+510,Belmont,–
+510,Redwood City,8:53a
+510,Mountain View,9:06a
+510,Palo Alto,8:59a
+510,California Avenue,–
+510,San Antonio,–
+510,Sunnyvale,9:09a
+510,Lawrence,–
+510,Santa Clara,–
+510,College Park,–
+510,San Jose Diridon,9:20a
+510,San Francisco,8:20a
+510,Menlo Park,–
+510,22nd Street,8:24a
+510,S. San Francisco,8:32a
+510,Bayshore,–
+511,Redwood City,8:49a
+511,Mountain View,8:36a
+511,San Antonio,–
+511,California Avenue,–
+511,Palo Alto,8:43a
+511,Menlo Park,-
+511,San Carlos,–
+511,Belmont,–
+511,Hillsdale,8:56a
+511,Hayward Park,–
+511,San Mateo,8:59a
+511,Burlingame,–
+511,Millbrae,9:04a
+511,San Francisco,9:22a
+511,22nd Street,9:16a
+511,Bayshore,–
+511,Sunnyvale,8:32a
+511,Lawrence,–
+511,Santa Clara,–
+511,College Park,–
+511,S. San Francisco,9:09a
+511,San Bruno,–
+511,San Jose Diridon,8:22a
+514,Menlo Park,–
+514,Redwood City,3:53p
+514,San Carlos,–
+514,Belmont,–
+514,Hillsdale,3:46p
+514,Hayward Park,–
+514,Burlingame,–
+514,Millbrae,3:38p
+514,San Bruno,–
+514,S. San Francisco,3:32p
+514,Bayshore,–
+514,22nd Street,3:24p
+514,San Francisco,3:20p
+514,California Avenue,–
+514,San Mateo,3:43p
+514,Palo Alto,3:59p
+514,College Park,–
+514,Sunnyvale,4:09p
+514,Mountain View,4:06p
+514,San Antonio,–
+514,Lawrence,–
+514,San Jose Diridon,4:20p
+514,Santa Clara,–
+515,Hayward Park,–
+515,Millbrae,4:04p
+515,San Bruno,–
+515,San Francisco,4:22p
+515,22nd Street,4:16p
+515,Lawrence,–
+515,Sunnyvale,3:32p
+515,Bayshore,–
+515,Mountain View,3:36p
+515,California Avenue,–
+515,S. San Francisco,4:09p
+515,Menlo Park,–
+515,Redwood City,3:49p
+515,San Carlos,–
+515,Belmont,–
+515,Hillsdale,3:56p
+515,San Antonio,–
+515,Palo Alto,3:43p
+515,San Mateo,3:59p
+515,Burlingame,–
+515,Santa Clara,–
+515,College Park,–
+515,San Jose Diridon,3:22p
+519,San Bruno,–
+519,San Jose Diridon,4:22p
+519,College Park,–
+519,Santa Clara,–
+519,Lawrence,–
+519,Sunnyvale,4:32p
+519,Mountain View,4:36p
+519,San Antonio,–
+519,S. San Francisco,5:09p
+519,California Avenue,–
+519,Menlo Park,–
+519,Redwood City,4:49p
+519,San Carlos,–
+519,Belmont,–
+519,Hillsdale,4:56p
+519,Hayward Park,–
+519,San Mateo,4:59p
+519,Burlingame,–
+519,Millbrae,5:04p
+519,San Francisco,5:22p
+519,22nd Street,5:16p
+519,Palo Alto,4:43p
+519,Bayshore,–
+523,College Park,–
+523,22nd Street,6:16p
+523,Santa Clara,–
+523,Lawrence,–
+523,Sunnyvale,5:32p
+523,Mountain View,5:36p
+523,San Antonio,–
+523,California Avenue,–
+523,San Jose Diridon,5:22p
+523,Menlo Park,–
+523,Redwood City,5:49p
+523,San Carlos,–
+523,Belmont,–
+523,Hillsdale,5:56p
+523,Hayward Park,–
+523,San Mateo,5:59p
+523,Burlingame,–
+523,Millbrae,6:04p
+523,San Bruno,–
+523,S. San Francisco,6:09p
+523,Bayshore,–
+523,San Francisco,6:22p
+523,Palo Alto,5:43p
+526,Hayward Park,–
+526,Burlingame,–
+526,Belmont,–
+526,San Carlos,–
+526,Menlo Park,–
+526,California Avenue,–
+526,San Antonio,–
+526,Lawrence,–
+526,Santa Clara,–
+526,College Park,–
+526,Bayshore,–
+526,San Bruno,–
+527,Redwood City,6:49p
+527,Palo Alto,6:43p
+527,Mountain View,6:36p
+527,Menlo Park,–
+527,Sunnyvale,6:32p
+527,Lawrence,–
+527,Santa Clara,–
+527,San Carlos,–
+527,California Avenue,–
+527,San Antonio,–
+527,Belmont,–
+527,Hayward Park,–
+527,College Park,–
+527,Millbrae,7:04p
+527,Hillsdale,6:56p
+527,San Bruno,–
+527,S. San Francisco,7:09p
+527,San Jose Diridon,6:22p
+527,22nd Street,7:16p
+527,San Francisco,7:22p
+527,Burlingame,–
+527,San Mateo,6:59p
+527,Bayshore,–
+805,College Park,–
+805,Tamien,6:35a
+805,Capitol,6:29a
+805,Blossom Hill,6:23a
+805,Morgan Hill,6:10a
+805,San Martin,6:04a
+805,Gilroy,5:52a
+805,San Jose Diridon,6:40a
+807,San Jose Diridon,7:19a
+807,Tamien,7:14a
+807,Capitol,7:08a
+807,Blossom Hill,7:02a
+807,Morgan Hill,6:49a
+807,Gilroy,6:31a
+807,San Martin,6:43a
+809,Blossom Hill,7:23a
+809,San Jose Diridon,7:40a
+809,Gilroy,6:52a
+809,Morgan Hill,7:10a
+809,San Martin,7:04a
+809,Capitol,7:29a
+809,Tamien,7:35a
+811,Capitol,8:08a
+811,Morgan Hill,7:49a
+811,San Jose Diridon,8:19a
+811,San Martin,7:43a
+811,Gilroy,7:31a
+811,Blossom Hill,8:02a
+811,Tamien,8:14a
+814,Tamien,4:28p
+814,Capitol,4:34p
+814,Blossom Hill,4:40p
+814,San Martin,5:00p
+814,Gilroy,5:11p
+814,San Jose Diridon,4:23p
+814,Morgan Hill,4:53p
+816,Tamien,5:06p 5:18p
+816,Capitol,5:12p
+816,Gilroy,5:49p
+816,Morgan Hill,5:31p
+816,San Martin,5:38p
+816,Blossom Hill,5:18p
+820,Gilroy,6:49p
+820,San Martin,6:38p
+820,Morgan Hill,6:31p
+820,Blossom Hill,6:18p
+820,Capitol,6:12p
+820,Tamien,6:06p 6:18p
+822,San Martin,7:00p
+822,Morgan Hill,6:53p
+822,Blossom Hill,6:40p
+822,Gilroy,7:11p
+822,Tamien,6:28p
+822,Capitol,6:34p
