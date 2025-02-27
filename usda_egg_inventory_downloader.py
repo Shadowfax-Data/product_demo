@@ -44,9 +44,14 @@ def fetch_egg_inventory_data(report_id: int, start_date: str, end_date: str) -> 
     params = {'q': f'report_begin_date={date_range}'}
 
     try:
+        print(f"Requesting URL: {url}")
+        print(f"With params: {params}")
         response = requests.get(url, headers=headers, params=params)
         response.raise_for_status()
-        return response.json()
+        json_data = response.json()
+        print(f"Response status: {response.status_code}")
+        print(f"Response data: {json.dumps(json_data, indent=2)}")
+        return json_data
     except requests.exceptions.RequestException as e:
         print(f"Error fetching data: {e}", file=sys.stderr)
         sys.exit(1)
@@ -56,22 +61,15 @@ def parse_inventory_data(json_data: Dict) -> List[Dict]:
     parsed_data = []
     
     for item in json_data.get('results', []):
-        report_date = item.get('report_date')
-        
-        # Extract inventory data from the report text
-        report_text = item.get('report_text', '')
-        
-        # Find the inventory volume in the report text
-        # Example format: "Shell Eggs: 1,234,567 dozen"
-        import re
-        inventory_match = re.search(r'Shell Eggs:\s*([\d,]+)\s*dozen', report_text)
-        if inventory_match:
-            inventory_volume = int(inventory_match.group(1).replace(',', ''))
-            
-            parsed_data.append({
-                'report_date': report_date,
-                'inventory_volume': inventory_volume
-            })
+        parsed_data.append({
+            'report_date': item.get('report_date'),
+            'region': item.get('region'),
+            'type': item.get('type'),
+            'class': item.get('class'),
+            'package': item.get('package'),
+            'volume': item.get('volume'),
+            'pct_chg_last_week': item.get('pct_chg_last_week')
+        })
     
     return parsed_data
 
@@ -83,7 +81,7 @@ def save_to_csv(data: List[Dict], output_file: str):
 
     try:
         with open(output_file, 'w', newline='') as csvfile:
-            fieldnames = ['report_date', 'inventory_volume']
+            fieldnames = ['report_date', 'region', 'type', 'class', 'package', 'volume', 'pct_chg_last_week']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             
             writer.writeheader()
