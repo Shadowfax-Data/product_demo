@@ -52,10 +52,8 @@ def load_csv_to_snowflake(conn, csv_file: str) -> None:
             
             insert_sql = """
             INSERT INTO shadowfax.public.usda_weekly_egg_inventory (
-                report_date, region, egg_type, egg_class, volume,
-                volume_change_week, volume_change_percent,
-                package, commodity, market_type
-            ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
+                report_date, region, type, class, package, volume, pct_chg_last_week
+            ) VALUES (%s, %s, %s, %s, %s, %s, %s)
             """
             
             total_rows = 0
@@ -63,14 +61,11 @@ def load_csv_to_snowflake(conn, csv_file: str) -> None:
                 record = (
                     row['report_date'],
                     row['region'],
-                    row['egg_type'],
-                    row['egg_class'],
-                    row['volume'],
-                    row['volume_change_week'],
-                    row['volume_change_percent'],
+                    row['type'],
+                    row['class'],
                     row['package'],
-                    row['commodity'],
-                    row['market_type']
+                    row['volume'],
+                    row['pct_chg_last_week']
                 )
                 batch.append(record)
                 
