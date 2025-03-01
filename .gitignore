@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# SEC data files
+*.dat
+*.zip
+/tmp/
+*.csv
+*.txt
+!requirements.txt
